@@ -1,0 +1,69 @@
+VER 3 0000000001000001 "dash" "INV_MISC_QUESTIONMARK"
+#showtooltip Dash
+/cast [nomod, noform:3] Cat Form
+/cast [nomod] !Dash
+/cast [mod:shift] Pounce(Rank 3)
+END
+VER 3 0000000001000007 "decurse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod,@mouseover,help,nodead][nomod,help,nodead][nomod,@player]Remove Curse
+END
+VER 3 0000000001000009 "ns" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Nature's Swiftness
+/cast [mod:shift, noform:3] Cat Form
+/cast [mod:shift] !Dash
+END
+VER 3 0000000001000002 "rake" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nostealth] Rake; [stealth] Pounce
+END
+VER 3 0000000001000004 "regg" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,help][@player] Regrowth
+END
+VER 3 000000000100000D "starfall" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Starfall
+/cast [mod:shift, noform:3] Cat Form
+/cast [mod:shift] !Dash
+END
+VER 3 0000000001000003 "stealth" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod, noform:3] Cat Form
+/cast [nostealth] !Prowl; [stealth] Prowl
+END
+VER 3 0000000001000008 "swift" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Swiftmend
+/cast [mod:shift, noform:3] Cat Form
+/cast [nostealth] !Prowl; [stealth] Prowl
+END
+VER 3 000000000100000A "swiftfor-healbot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Swiftmend
+END
+VER 3 0000000001000005 "test mod" "INV_MISC_QUESTIONMARK"
+/cast [nomod] Tranquility(Rank 3)
+/cast [mod:shift] Remove Curse
+END
+VER 3 0000000001000006 "travel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [swimming, mod:shift] !Aquatic Form;[outdoors, mod:shift] !Travel Form [outdoors, flying, mod:shift] !Flight Form;
+/cast [mod:alt] Healing Touch
+/cast [mod:ctrl] Healing Touch
+/cast [nomod] Dire Bear Form(Shapeshift)
+END
+VER 3 000000000100000E "typ" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [swimming, mod:shift] !Aquatic Form;[outdoors, mod:shift] !Travel Form [outdoors, flying, mod:shift] !Flight Form;
+/cast [mod:alt] Healing Touch
+/cast [mod:ctrl] Healing Touch
+/cast [nomod] Typhoon(Rank 3)
+END
+VER 3 000000000100000B "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 000000000100000C "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Nom[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

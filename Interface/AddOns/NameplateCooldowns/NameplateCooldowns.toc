@@ -1,0 +1,15 @@
+## Interface: 30401
+## Title: NameplateCooldowns [WotLK]
+## Notes: Shows the cooldowns of enemy players above their nameplates
+## SavedVariables: NameplateCooldownsAceDB
+## Version: 30401.0-release
+## X-Curse-Project-ID: 66866
+## X-Wago-ID: 0mNwjlGo
+
+embeds.xml
+src\constants.lua
+src\utilities.lua
+locales\localizations.xml
+src\default-spells.lua
+src\database.lua
+NameplateCooldowns.lua

@@ -1,0 +1,29 @@
+## Interface: 20502
+## Title: Keep The Herbs |cd0ff7d0aBy Subby|r (Ver. 2.0.r2)
+## Notes: Show what herbs are used for and what herb you need to make something.
+## Version: 2.0.r2
+## Author: Subby on Pyrewood Village [Horde]
+## Description: Show what herbs are used for and what herb you need to make something.
+## Description-deDE: Show what herbs are used for and what herb you need to make something.
+## Description-frFR: Show what herbs are used for and what herb you need to make something.
+## Description-esES: Show what herbs are used for and what herb you need to make something.
+## Description-esMX: Show what herbs are used for and what herb you need to make something.
+## Description-itIT: Show what herbs are used for and what herb you need to make something.
+## Description-koKR: Show what herbs are used for and what herb you need to make something.
+## Description-ptBR: Show what herbs are used for and what herb you need to make something.
+## Description-ruRU: Show what herbs are used for and what herb you need to make something.
+## Description-zhCN: 显示草药材料的各种炼金用途,同时提示采集草药与炼金所需的等级难度.
+## Description-zhTW: Show what herbs are used for and what herb you need to make something.
+##
+## DefaultState: enabled
+## Dependencies:
+## SavedVariablesPerCharacter:
+## X-Category: Professions
+
+# All lists have to be in the beginning so they load first.
+KeepTheHerbsList.lua
+
+# Load the "core" of the addon now as there is a lot of preference in that one.
+KeepTheHerbs.lua
+
+# All the rest of the small addons will load here.

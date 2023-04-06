@@ -1,0 +1,40 @@
+VER 3 0000000001000006 "exorcism" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift]Lay on Hands
+/cast [mod:alt]Consecration
+/cast [nomod,@mouseover,help,nodead]Exorcism; Exorcism
+END
+VER 3 0000000001000003 "flash" "INV_MISC_QUESTIONMARK"
+#showtooltip Flash of Light
+/cast [mod:alt,@player]Flash of Light
+/cast [nomod,@mouseover,help,nodead]Flash of Light; Flash of Light
+END
+VER 3 0000000001000005 "flash" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod]Consecration
+/cast [mod:alt,@mouseover,help,nodead]Flash of Light; Flash of Light
+/cast [mod:shift]Consecration
+END
+VER 3 0000000001000007 "kiloprot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift]Divine Protection
+/cast [mod:alt]Righteous Fury
+/cast [nomod,@mouseover,help,nodead]Hammer of Wrath; Hammer of Wrath
+END
+VER 3 0000000001000004 "light" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Light
+/cast [mod:alt,@player]Holy Light
+/cast [nomod,@mouseover,help,nodead]Holy Light; Holy Light
+END
+VER 3 0000000001000008 "shield" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift]Lay on Hands
+/cast [mod:alt]Consecration
+/cast [nomod] Shield of Righteousness(Rank 1)
+END
+VER 3 0000000001000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000001000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Amb[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

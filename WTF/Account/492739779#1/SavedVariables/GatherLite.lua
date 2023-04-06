@@ -1,0 +1,268 @@
+
+GatherLiteSettings = {
+	["char"] = {
+		["Tolain - Firemaw"] = {
+			["tracking"] = {
+				["mining"] = false,
+			},
+		},
+		["Nomen - Firemaw"] = {
+			["tracking"] = {
+				["herbalism"] = false,
+				["containers"] = false,
+			},
+		},
+	},
+	["global"] = {
+		["nodes"] = {
+			["herbalism"] = {
+				{
+					["type"] = "herbalism",
+					["posY"] = 0.638365619768714,
+					["date"] = {
+						["hour"] = 12,
+						["min"] = 52,
+						["wday"] = 2,
+						["day"] = 4,
+						["month"] = 7,
+						["year"] = 2022,
+						["sec"] = 56,
+						["yday"] = 185,
+						["isdst"] = false,
+					},
+					["coins"] = 0,
+					["loadedWorldmap"] = false,
+					["loaded"] = false,
+					["loot"] = {
+					},
+					["posX"] = 0.78530520593621,
+					["instance"] = 0,
+					["mapID"] = 1433,
+					["object"] = 1622,
+					["predefined"] = false,
+				}, -- [1]
+				{
+					["type"] = "herbalism",
+					["posY"] = 0.7892721624425191,
+					["date"] = {
+						["hour"] = 13,
+						["min"] = 20,
+						["wday"] = 2,
+						["day"] = 4,
+						["month"] = 7,
+						["year"] = 2022,
+						["sec"] = 30,
+						["yday"] = 185,
+						["isdst"] = false,
+					},
+					["coins"] = 0,
+					["loaded"] = false,
+					["instance"] = 0,
+					["loot"] = {
+					},
+					["posX"] = 0.6159232833550802,
+					["mapID"] = 1433,
+					["object"] = 1622,
+					["predefined"] = false,
+					["loadedWorldmap"] = false,
+				}, -- [2]
+				{
+					["type"] = "herbalism",
+					["posY"] = 0.3036312181122449,
+					["date"] = {
+						["hour"] = 13,
+						["min"] = 18,
+						["wday"] = 4,
+						["day"] = 6,
+						["month"] = 7,
+						["year"] = 2022,
+						["sec"] = 38,
+						["yday"] = 187,
+						["isdst"] = false,
+					},
+					["coins"] = 0,
+					["loot"] = {
+					},
+					["predefined"] = false,
+					["object"] = 1620,
+					["posX"] = 0.3856966953595992,
+					["mapID"] = 1437,
+					["instance"] = 0,
+					["loaded"] = false,
+					["loadedWorldmap"] = false,
+				}, -- [3]
+				{
+					["type"] = "herbalism",
+					["posY"] = 0.4035221907936751,
+					["date"] = {
+						["hour"] = 0,
+						["min"] = 17,
+						["wday"] = 1,
+						["day"] = 10,
+						["month"] = 7,
+						["year"] = 2022,
+						["sec"] = 46,
+						["yday"] = 191,
+						["isdst"] = false,
+					},
+					["coins"] = 0,
+					["loadedWorldmap"] = false,
+					["loaded"] = false,
+					["predefined"] = false,
+					["posX"] = 0.2665517683337415,
+					["instance"] = 0,
+					["mapID"] = 1434,
+					["loot"] = {
+					},
+					["object"] = 2045,
+				}, -- [4]
+				{
+					["type"] = "herbalism",
+					["posY"] = 0.7196957795516304,
+					["date"] = {
+						["hour"] = 1,
+						["min"] = 36,
+						["wday"] = 1,
+						["day"] = 17,
+						["month"] = 7,
+						["year"] = 2022,
+						["sec"] = 50,
+						["yday"] = 198,
+						["isdst"] = false,
+					},
+					["coins"] = 0,
+					["object"] = 142140,
+					["loot"] = {
+					},
+					["predefined"] = false,
+					["posX"] = 0.406065260279754,
+					["mapID"] = 1446,
+					["instance"] = 1,
+					["loaded"] = false,
+					["loadedWorldmap"] = false,
+				}, -- [5]
+			},
+			["mining"] = {
+				{
+					["type"] = "mining",
+					["posY"] = 0.1405468257854433,
+					["date"] = {
+						["hour"] = 13,
+						["min"] = 12,
+						["wday"] = 2,
+						["day"] = 4,
+						["month"] = 7,
+						["year"] = 2022,
+						["sec"] = 15,
+						["yday"] = 185,
+						["isdst"] = false,
+					},
+					["coins"] = 0,
+					["loadedWorldmap"] = false,
+					["loaded"] = false,
+					["loot"] = {
+					},
+					["posX"] = 0.2172744933665357,
+					["instance"] = 0,
+					["mapID"] = 1433,
+					["object"] = 1731,
+					["predefined"] = false,
+				}, -- [1]
+				{
+					["type"] = "mining",
+					["posY"] = 0.1667914419026268,
+					["date"] = {
+						["hour"] = 13,
+						["min"] = 12,
+						["wday"] = 2,
+						["day"] = 4,
+						["month"] = 7,
+						["year"] = 2022,
+						["sec"] = 41,
+						["yday"] = 185,
+						["isdst"] = false,
+					},
+					["coins"] = 0,
+					["loadedWorldmap"] = false,
+					["loaded"] = false,
+					["loot"] = {
+					},
+					["posX"] = 0.2246449342726627,
+					["instance"] = 0,
+					["mapID"] = 1433,
+					["object"] = 1732,
+					["predefined"] = false,
+				}, -- [2]
+				{
+					["type"] = "mining",
+					["posY"] = 0.7680745442708333,
+					["date"] = {
+						["hour"] = 0,
+						["min"] = 1,
+						["wday"] = 6,
+						["day"] = 8,
+						["month"] = 7,
+						["year"] = 2022,
+						["sec"] = 24,
+						["yday"] = 189,
+						["isdst"] = false,
+					},
+					["coins"] = 0,
+					["loaded"] = false,
+					["instance"] = 0,
+					["predefined"] = false,
+					["posX"] = 0.3362716194435402,
+					["mapID"] = 1431,
+					["object"] = 1732,
+					["loot"] = {
+					},
+					["loadedWorldmap"] = false,
+				}, -- [3]
+				{
+					["type"] = "mining",
+					["posY"] = 0.6549115544320262,
+					["date"] = {
+						["hour"] = 9,
+						["min"] = 57,
+						["wday"] = 1,
+						["day"] = 17,
+						["month"] = 7,
+						["year"] = 2022,
+						["sec"] = 47,
+						["yday"] = 198,
+						["isdst"] = false,
+					},
+					["coins"] = 0,
+					["loaded"] = false,
+					["instance"] = 0,
+					["predefined"] = false,
+					["posX"] = 0.5369547192538415,
+					["mapID"] = 1415,
+					["object"] = 1735,
+					["loot"] = {
+					},
+					["loadedWorldmap"] = false,
+				}, -- [4]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Sourcer - Mograine"] = "Default",
+		["Ambracer - Mograine"] = "Default",
+		["Nomenth - Mograine"] = "Default",
+		["Postographer - Mograine"] = "Default",
+		["Nomen - Firemaw"] = "Default",
+		["Torket - Firemaw"] = "Default",
+		["Tolain - Firemaw"] = "Default",
+		["Nowarguy - Firemaw"] = "Default",
+		["Ambraser - Mograine"] = "Default",
+		["Хрукцион - Пламегор"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["minimap"] = {
+				["minimapPos"] = 204.1195978438715,
+			},
+		},
+	},
+}

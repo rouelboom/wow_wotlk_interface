@@ -1,0 +1,8 @@
+Version: 1
+Frame: BagnonBankFrame1
+FrameLevel: 1
+Anchor: CENTER
+X: -85
+Y: 96
+W: 482
+H: 333

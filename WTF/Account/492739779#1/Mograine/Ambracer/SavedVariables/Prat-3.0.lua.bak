@@ -1,0 +1,2048 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 7,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679154985,
+					["r"] = 1,
+				}, -- [1]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["b"] = 0,
+					["r"] = 1,
+					["serverTime"] = 1679155238,
+					["timestamp"] = 241463.813,
+					["g"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [2]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["g"] = 1,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679165394,
+					["b"] = 0,
+				}, -- [3]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["serverTime"] = 1679212463,
+					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 241463.813,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [4]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 241463.813,
+				}, -- [5]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 241463.813,
+				}, -- [6]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 241452.985,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [7]
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 34,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:24]|h|r |cFFAAEEFFQuestie DB has updated!|r|cFFFF6F22 Data is being processed, this may take a few moments and cause some lag...",
+					["timestamp"] = 241464.937,
+					["serverTime"] = 1679212464,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:24]|h|r |cFF4DDBFF [1/9] Loading database...",
+					["timestamp"] = 241464.937,
+					["serverTime"] = 1679212464,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:24]|h|r |cFF4DDBFF [2/9] Applying database corrections...",
+					["timestamp"] = 241465.555,
+					["serverTime"] = 1679212464,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:24]|h|r |cFF4DDBFF [3/9] Initializing townfolks...",
+					["timestamp"] = 241465.649,
+					["serverTime"] = 1679212464,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:28]|h|r |cFF4DDBFF [4/9] Initializing locale...",
+					["timestamp"] = 241469.163,
+					["serverTime"] = 1679212468,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:28]|h|r |cFF4DDBFF [5/9] Optimizing waypoints...",
+					["timestamp"] = 241469.197,
+					["serverTime"] = 1679212468,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:29]|h|r true",
+					["timestamp"] = 241470.113,
+					["serverTime"] = 1679212469,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:29]|h|r |cFF4DDBFF [6/9] Updating NPCs...",
+					["timestamp"] = 241470.663,
+					["serverTime"] = 1679212469,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:40]|h|r |cFF4DDBFF [7/9] Updating objects...",
+					["timestamp"] = 241480.747,
+					["serverTime"] = 1679212480,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:44]|h|r |cFF4DDBFF [8/9] Updating quests...",
+					["timestamp"] = 241485.33,
+					["serverTime"] = 1679212484,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:50]|h|r |cFF4DDBFF [9/9] Updating items...",
+					["timestamp"] = 241490.664,
+					["serverTime"] = 1679212490,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:52]|h|r |cFFFFA500KeepTheHerbs:|r Your running the The Burning Crusade Era version of KeepTheHerbs.",
+					["timestamp"] = 241492.999,
+					["serverTime"] = 1679212492,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:52]|h|r |cFFFFA500KeepTheHerbs:|r Please download the right version.",
+					["timestamp"] = 241492.999,
+					["serverTime"] = 1679212492,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:55]|h|r |cFFAAEEFFQuestie DB update complete!",
+					["timestamp"] = 241495.788,
+					["serverTime"] = 1679212495,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:56:34]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:1:CHANNEL:4|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: LF2M TANK/DPS DAIILY HC+ HoS",
+					["serverTime"] = 1679212594,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241595.63,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:56:35]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:2:CHANNEL:4|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: LF2M TANK/DPS DAIILY HC+ HoS",
+					["serverTime"] = 1679212595,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241596.746,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:57:05]|h|r [W To] |cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:3:WHISPER:DUNDERPÅÅSE-MOGRAINE|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: hi. tank with 19k hp will be ok for hc+?",
+					["serverTime"] = 1679212625,
+					["r"] = 1,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241626.197,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:57:14]|h|r [W From] |cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:4:WHISPER:DUNDERPÅÅSE-MOGRAINE|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: gs?",
+					["serverTime"] = 1679212634,
+					["r"] = 1,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						4, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241635.263,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:57:38]|h|r [W To] |cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:5:WHISPER:DUNDERPÅÅSE-MOGRAINE|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: idk, just recently lvled up for 80, didnt install it yet",
+					["serverTime"] = 1679212658,
+					["r"] = 1,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241659.374,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:57:52]|h|r [W To] |cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:6:WHISPER:DUNDERPÅÅSE-MOGRAINE|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: questing + dung gear",
+					["serverTime"] = 1679212672,
+					["r"] = 1,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241673.382,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:57:53]|h|r [W From] |cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:7:WHISPER:DUNDERPÅÅSE-MOGRAINE|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: well if u got new 80 gear it will be a nightmare for me",
+					["serverTime"] = 1679212673,
+					["r"] = 1,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						4, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241674.242,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:58:00]|h|r [W To] |cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:8:WHISPER:DUNDERPÅÅSE-MOGRAINE|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: ok :)",
+					["serverTime"] = 1679212680,
+					["r"] = 1,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241681.458,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:58:04]|h|r [W From] |cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:9:WHISPER:DUNDERPÅÅSE-MOGRAINE|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: sry m8 <3",
+					["serverTime"] = 1679212684,
+					["r"] = 1,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						4, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241685.533,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:58:13]|h|r [W To] |cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:10:WHISPER:DUNDERPÅÅSE-MOGRAINE|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: its ok, gl :)",
+					["serverTime"] = 1679212693,
+					["r"] = 1,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241694.146,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:58:13]|h|r [W From] |cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:11:WHISPER:DUNDERPÅÅSE-MOGRAINE|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: tried heal new lvl 8p before",
+					["serverTime"] = 1679212693,
+					["r"] = 1,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						4, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241694.629,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:58:18]|h|r [W From] |cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:12:WHISPER:DUNDERPÅÅSE-MOGRAINE|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: u take tooo much damage :/",
+					["serverTime"] = 1679212698,
+					["r"] = 1,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						4, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241699.762,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:58:31]|h|r [W From] |cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:13:WHISPER:DUNDERPÅÅSE-MOGRAINE|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: i cant even spam heal that much damage haha",
+					["serverTime"] = 1679212711,
+					["r"] = 1,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						4, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241712.095,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:58:34]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Dunderpååse-Mograine:14:CHANNEL:4|h|cffd8d83f80|r:|cffffffffDunderpååse|r|h|cffd8d8d8]|r: LF2M TANK/DPS DAIILY HC+ HoS",
+					["serverTime"] = 1679212714,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241715.162,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:59:19]|h|r You have joined the queue for Random Battleground.",
+					["serverTime"] = 1679212759,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241759.996,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:59:38]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Slimpally-Mograine:16:CHANNEL:4|h|cffd8d83f80|r:|cfff48cbaSlimpally|r|h|cffd8d8d8]|r: LF3m to HOL HC+ Need healer 2 dps gs +3.8 k",
+					["serverTime"] = 1679212778,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241779.061,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:59:39]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Slimpally-Mograine:17:CHANNEL:4|h|cffd8d83f80|r:|cfff48cbaSlimpally|r|h|cffd8d8d8]|r: LF3m to HOL HC+ Need healer 2 dps gs +3.8 k",
+					["serverTime"] = 1679212779,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241780.577,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:59:49]|h|r |Hchannel:channel:1|h[1] |h Left Channel: |Hchannel:CHANNEL:1|h[1. General - Dalaran]|h",
+					["serverTime"] = 1679212789,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241790.027,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:59:49]|h|r |Hchannel:channel:2|h[2] |h Left Channel: |Hchannel:CHANNEL:2|h[2. Trade - City]|h",
+					["serverTime"] = 1679212789,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241790.027,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:59:49]|h|r |Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Dalaran]|h",
+					["serverTime"] = 1679212789,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 241790.027,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:42:55]|h|r You have learned a new spell: Holy Shield (Rank 4).",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168575,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:42:55]|h|r You have learned a new spell: Holy Shield (Rank 5).",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168575,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:42:55]|h|r You have learned a new spell: Holy Shield (Rank 6).",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168575,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:42:55]|h|r You have learned a new spell: Spiritual Attunement (Rank 1).",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168575,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:42:55]|h|r You have learned a new spell: Avenger's Shield (Rank 1).",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168575,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:42:55]|h|r You have learned a new spell: Avenger's Shield (Rank 2).",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168575,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:42:55]|h|r You have learned a new spell: Avenger's Shield (Rank 3).",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168575,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:42:55]|h|r You have learned a new spell: Avenger's Shield (Rank 4).",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168575,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:42:55]|h|r You have learned a new spell: Avenger's Shield (Rank 5).",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168575,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:42:55]|h|r You have learned a new spell: Hammer of the Righteous.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168575,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:42:55]|h|r You have learned a new spell: Seal of Command.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168575,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:43:18]|h|r |cffd8d8d8[|r|Hplayer:Manadar:1140|h|cffd8d83f80|r:|cfff48cbaManadar|r|h|cffd8d8d8]|r has come online.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168598,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:43:26]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Xhainthon-Mograine:1141:CHANNEL:2|h|cffd8d83f80|r:|cff3fc6eaXhainthon|r|h|cffd8d8d8]|r: LF Enchanter",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168606,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						52, -- [3]
+						55, -- [4]
+						["n"] = 4,
+					},
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:45:17]|h|r |cffd8d8d8[|r|Hplayer:Bobyyk:1147|h|cffd8d83f80|r:|cffffffffBobyyk|r|h|cffd8d8d8]|r has come online.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168717,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:45:50]|h|r |cffff7c0aRóusku|r has gone offline.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168750,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:46:34]|h|r [Y] |cffd8d8d8[|r|Hplayer:Wilmadicfid-Mograine:1149:YELL|h|cffffffffWilmadicfid|r|h|cffd8d8d8]|r: [Orcish] Maza'rotha uruk L Mu KO NO REGAS HA GESH",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168794,
+					["extraData"] = {
+						7, -- [1]
+						false, -- [2]
+						65, -- [3]
+						66, -- [4]
+						["n"] = 4,
+					},
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:46:44]|h|r Quest accepted: Proof of Demise: Sjonnir The Ironshaper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168804,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:48:05]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Bobyyk-Mograine:1152:CHANNEL:4|h|cffd8d83f80|r:|cffffffffBobyyk|r|h|cffd8d8d8]|r: LFM OS10+2 Illustration of the Dragon Soul HR",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168885,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						57, -- [4]
+						["n"] = 4,
+					},
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:48:24]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Fosses-Mograine:1156:CHANNEL:2|h|cfff48cbaFosses|r|h|cffd8d8d8]|r: holy 1k6 lf dps 2v2v",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168904,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						52, -- [3]
+						59, -- [4]
+						["n"] = 4,
+					},
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:16]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Animallo-Mograine:1164:CHANNEL:4|h|cffaad372Animallo|r|h|cffd8d8d8]|r: lfm Tank Heal (+4k GS)   UP hc +  last spots port rdy",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168956,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						67, -- [4]
+						["n"] = 4,
+					},
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:17]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Kommaduher:1165:CHANNEL:4|h|cff0070ddKommaduher|r|h|cffd8d8d8]|r: tank and DD for sunken temple",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168957,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						69, -- [4]
+						["n"] = 4,
+					},
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:24]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Animallo-Mograine:1166:CHANNEL:2|h|cffaad372Animallo|r|h|cffd8d8d8]|r: lfm Tank Heal (+4k GS)   UP hc +  last spots port rdy",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168964,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						52, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:36]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Bobyyk-Mograine:1167:GUILD|h|cffd8d83f80|r:|cffffffffBobyyk|r|h|cffd8d8d8]|r: LFM OS10+2 |cffa335ee|Hitem:40432::::::::80:::::::::|h[Illustration of the Dragon Soul]|h|r hr",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168976,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						12, -- [3]
+						73, -- [4]
+						["n"] = 4,
+					},
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:57]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Crystalsong Forest]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168997,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:57]|h|r |Hchannel:channel:2|h[2] |h Left Channel: |Hchannel:CHANNEL:2|h[2. Trade - City]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168997,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						52, -- [3]
+						74, -- [4]
+						["n"] = 4,
+					},
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:57]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Crystalsong Forest]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679168997,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						39, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:50:01]|h|r You have joined the queue for Random Battleground.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169001,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:50:02]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Icecrown]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169002,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:50:02]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Icecrown]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169002,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						39, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:50:18]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Animallo-Mograine:1174:CHANNEL:4|h|cffaad372Animallo|r|h|cffd8d8d8]|r: lfm Tank Heal (+4k GS)   UP hc +  last spots port rdy",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169018,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						67, -- [4]
+						["n"] = 4,
+					},
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:50:19]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Crystalsong Forest]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169019,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:50:19]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Crystalsong Forest]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169019,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						39, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:50:53]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Dragonblight]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169053,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:50:53]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Dragonblight]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169053,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						39, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:50:57]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Bobyyk-Mograine:1183:CHANNEL:4|h|cffd8d83f80|r:|cffffffffBobyyk|r|h|cffd8d8d8]|r: LFM OS10+2 Illustration of the Dragon Soul HR",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169057,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						57, -- [4]
+						["n"] = 4,
+					},
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:51:47]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Luckypaladin-Mograine:1184:GUILD|h|cffd8d83f80|r:|cfff48cbaLuckypaladin|r|h|cffd8d8d8]|r: [NWB] Wintergrasp starts in 10 minutes.",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169107,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						12, -- [3]
+						76, -- [4]
+						["n"] = 4,
+					},
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:52:11]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Suggalot-Mograine:1185:CHANNEL:4|h|cffc69b6dSuggalot|r|h|cffd8d8d8]|r: need tank for tempel . ja",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169131,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:52:13]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Kommaduher-Mograine:1186:CHANNEL:4|h|cff0070ddKommaduher|r|h|cffd8d8d8]|r: tank for sunken temple, lets go crackheads",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169133,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						69, -- [4]
+						["n"] = 4,
+					},
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:52:25]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Animallo-Mograine:1187:CHANNEL:4|h|cffaad372Animallo|r|h|cffd8d8d8]|r: lfm Tank Heal (+4k GS)   UP hc +  last spots port rdy",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169145,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						67, -- [4]
+						["n"] = 4,
+					},
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:53:25]|h|r [W From] |cffd8d8d8[|r|Hplayer:Animallo-Mograine:1188:WHISPER:ANIMALLO-MOGRAINE|h|cffaad372Animallo|r|h|cffd8d8d8]|r: tank spoecc for hc+  need for UP?",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169205,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						77, -- [3]
+						78, -- [4]
+						["n"] = 4,
+					},
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:53:27]|h|r |cff3fc6eaMarranello|r has gone offline.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169207,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:53:59]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Tremoto:1190:CHANNEL:4|h|cfff48cbaTremoto|r|h|cffd8d8d8]|r: lf2m dmg Drak'Tharon normal",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169239,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:54:09]|h|r [W To] |cffd8d8d8[|r|Hplayer:Animallo-Mograine:1191:WHISPER:ANIMALLO-MOGRAINE|h|cffaad372Animallo|r|h|cffd8d8d8]|r: yep. but i was only recentry uped to 80",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169249,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						77, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:54:25]|h|r [W To] |cffd8d8d8[|r|Hplayer:Animallo-Mograine:1192:WHISPER:ANIMALLO-MOGRAINE|h|cffaad372Animallo|r|h|cffd8d8d8]|r: have 19k hp",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169265,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						77, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:54:41]|h|r [W From] |cffd8d8d8[|r|Hplayer:Animallo-Mograine:1193:WHISPER:ANIMALLO-MOGRAINE|h|cffaad372Animallo|r|h|cffd8d8d8]|r: but  know what to do?  and i can buff kings and dudu buff ^^",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169281,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						77, -- [3]
+						78, -- [4]
+						["n"] = 4,
+					},
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:54:57]|h|r [W From] |cffd8d8d8[|r|Hplayer:Animallo-Mograine:1194:WHISPER:ANIMALLO-MOGRAINE|h|cffaad372Animallo|r|h|cffd8d8d8]|r: dont stnd in ice ^^",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169297,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						77, -- [3]
+						78, -- [4]
+						["n"] = 4,
+					},
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:55:07]|h|r |cffd8d8d8[|r|Hplayer:Animallo:1195|h|cffa5a5a5Animallo|r|h|cffd8d8d8]|r has invited you to join a group.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169307,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:55:11]|h|r |cffd8d8d8[|r|Hplayer:Trraxe:1196|h|cffa5a5a5Trraxe|r|h|cffd8d8d8]|r invited you to a group, but you could not accept because you are already in a group.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169311,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:55:15]|h|r |cffd8d8d8[|r|Hplayer:Aiboh:1197|h|cffd8d83f80|r:|cff3fc6eaAiboh|r|h|cffd8d8d8]|r has come online.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169315,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:55:17]|h|r [W To] |cffd8d8d8[|r|Hplayer:Animallo-Mograine:1198:WHISPER:ANIMALLO-MOGRAINE|h|cffaad372Animallo|r|h|cffd8d8d8]|r: never was in hc+ before but visit m+ lots of times :D",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169317,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						77, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:55:20]|h|r Dungeon Difficulty set to Heroic.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169320,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:55:28]|h|r |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Ambracer-Mograine:1200:PARTY|h|cffd8d83f80|r:|cfff48cbaAmbracer|r|h|cffd8d8d8]|r: hi",
+					["b"] = 1,
+					["r"] = 0.6666666865348816,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169328,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						82, -- [3]
+						83, -- [4]
+						["n"] = 4,
+					},
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:55:31]|h|r |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Animallo-Mograine:1201:PARTY|h|cffaad372Animallo|r|h|cffd8d8d8]|r: hey hey and welcome",
+					["b"] = 1,
+					["r"] = 0.4627451300621033,
+					["g"] = 0.7843137979507446,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169331,
+					["extraData"] = {
+						50, -- [1]
+						false, -- [2]
+						82, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:55:48]|h|r Gepixy joins the party.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169348,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:56:23]|h|r |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Animallo-Mograine:1203:PARTY|h|cffd8d83f80|r:|cffaad372Animallo|r|h|cffd8d8d8]|r: hey hey and welcome all to uP hc+",
+					["b"] = 1,
+					["r"] = 0.4627451300621033,
+					["g"] = 0.7843137979507446,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169383,
+					["extraData"] = {
+						50, -- [1]
+						false, -- [2]
+						82, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:56:23]|h|r You receive item: |cff0070dd|Hitem:44188::::::::80:::::::::|h[Cloak of Peaceful Resolutions]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169383,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:56:40]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Bobyyk-Mograine:1205:CHANNEL:4|h|cffd8d83f80|r:|cffffffffBobyyk|r|h|cffd8d8d8]|r: LF2M OS10+2 tanks",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169400,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						57, -- [4]
+						["n"] = 4,
+					},
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:56:42]|h|r |cffc69b6dBrombaz|r has gone offline.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169402,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:57:25]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Tremoto-Mograine:1207:CHANNEL:4|h|cfff48cbaTremoto|r|h|cffd8d8d8]|r: LFM dmg DrakTharon norm",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169445,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:57:38]|h|r [W From] |cffd8d8d8[|r|Hplayer:Animallo-Mograine:1208:WHISPER:ANIMALLO-MOGRAINE|h|cffd8d83f80|r:|cffaad372Animallo|r|h|cffd8d8d8]|r: have and 4,5 k gs tank   u  angry when i take him?",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169458,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						77, -- [3]
+						78, -- [4]
+						["n"] = 4,
+					},
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:57:50]|h|r [W To] |cffd8d8d8[|r|Hplayer:Animallo-Mograine:1209:WHISPER:ANIMALLO-MOGRAINE|h|cffd8d83f80|r:|cffaad372Animallo|r|h|cffd8d8d8]|r: no, its ok:)",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169470,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						77, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:58:07]|h|r |cffd8d8d8[|r|Hplayer:Brombaz:1210|h|cffd8d83f80|r:|cffc69b6dBrombaz|r|h|cffd8d8d8]|r has come online.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169487,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:58:12]|h|r You have been removed from the group.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169492,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:58:15]|h|r |cffd8d8d8[|r|Hplayer:Animallo:1212|h|cffd8d83f80|r:|cffaad372Animallo|r|h|cffd8d8d8]|r has invited you to join a group.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169495,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:59:15]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Suggalot-Mograine:1213:CHANNEL:4|h|cffc69b6dSuggalot|r|h|cffd8d8d8]|r: tank for tempel . then go",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169555,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:59:24]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Crystalsong Forest]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169564,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:59:24]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Crystalsong Forest]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169564,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						39, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:59:31]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Bobyyk-Mograine:1216:CHANNEL:4|h|cffd8d83f80|r:|cffffffffBobyyk|r|h|cffd8d8d8]|r: LF 2 tanks for OS10+2",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169571,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						57, -- [4]
+						["n"] = 4,
+					},
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:59:40]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Dalaran]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169580,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:59:40]|h|r |Hchannel:channel:2|h[2] |h Changed Channel: |Hchannel:CHANNEL:2|h[2. Trade - City]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169580,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						52, -- [3]
+						74, -- [4]
+						["n"] = 4,
+					},
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:59:40]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Dalaran]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169580,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						39, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:59:59]|h|r |cffc69b6dBrombaz|r has gone offline.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169599,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:00:01]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Mongard-Mograine:1221:CHANNEL:4|h|cffc41e3aMongard|r|h|cffd8d8d8]|r: Tank LF hc's",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169601,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:00:07]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Kommaduher-Mograine:1229:CHANNEL:4|h|cff0070ddKommaduher|r|h|cffd8d8d8]|r: tank fur sunken temple, lets go!",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169607,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						69, -- [4]
+						["n"] = 4,
+					},
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:00:16]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Tremoto-Mograine:1235:CHANNEL:4|h|cfff48cbaTremoto|r|h|cffd8d8d8]|r: lf2 dmg Drak'Tharon",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169616,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:02:21]|h|r |Hplayer:Böfhus-Mograine:1237:EMOTE:|hBöfhus|h shoves Cezzna.",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169741,
+					["extraData"] = {
+						11, -- [1]
+						false, -- [2]
+						87, -- [3]
+						88, -- [4]
+						["n"] = 4,
+					},
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:02:29]|h|r |Hplayer:Crackass:0:TEXT_EMOTE:|hCrackass|h hugs Cezzna.",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169749,
+					["extraData"] = {
+						12, -- [1]
+						false, -- [2]
+						89, -- [3]
+						90, -- [4]
+						["n"] = 4,
+					},
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:02:35]|h|r |Hplayer:Böfhus:0:TEXT_EMOTE:|hBöfhus|h spits on the ground.",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169755,
+					["extraData"] = {
+						12, -- [1]
+						false, -- [2]
+						89, -- [3]
+						91, -- [4]
+						["n"] = 4,
+					},
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:02:45]|h|r |Hplayer:Crackass:0:TEXT_EMOTE:|hCrackass|h spits on the ground.",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169765,
+					["extraData"] = {
+						12, -- [1]
+						false, -- [2]
+						89, -- [3]
+						90, -- [4]
+						["n"] = 4,
+					},
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:03:12]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Tremoto-Mograine:1239:CHANNEL:4|h|cfff48cbaTremoto|r|h|cffd8d8d8]|r: lf2 dd Drak'Tharon norm",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169792,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:03:20]|h|r Böfhus looks tipsy.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169800,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:03:35]|h|r Böfhus looks drunk.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169815,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:03:38]|h|r Böfhus looks completely smashed.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169818,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:03:45]|h|r |cff3fc6eaFeuerengel|r has gone offline.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169825,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:04:02]|h|r |cffd8d8d8[|r|Hplayer:Ontherockz:1244|h|cffd8d83f80|r:|cffc41e3aOntherockz|r|h|cffd8d8d8]|r has come online.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169842,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:04:09]|h|r |cfff48cbaAlyrá|r looks tipsy.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169849,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:04:10]|h|r Crackass looks tipsy.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169850,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:04:17]|h|r Crackass looks drunk.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169857,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:04:42]|h|r Crackass looks completely smashed.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169882,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:04:44]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Ontherockz-Mograine:1249:GUILD|h|cffd8d83f80|r:|cffc41e3aOntherockz|r|h|cffd8d8d8]|r: can tank the drakes if u like",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 241463.813,
+					["serverTime"] = 1679169884,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						12, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+				}, -- [124]
+				{
+					["message"] = "0 |4day:days;, 11 |4hour:hours;, 49 |4minute:minutes;, 39 |4second:seconds;",
+					["timestamp"] = 241463.813,
+				}, -- [125]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 241463.813,
+				}, -- [126]
+				{
+					["message"] = "|cff30fc96Questie|r: |cff00bc32Hiding drop-down menus on the World Map.|r This is currently necessary as a workaround for a bug in the default Blizzard UI related to drop-down menus.",
+					["timestamp"] = 241452.985,
+				}, -- [127]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:54:22]|h|r Guild Message of the Day: DISCORD LINK IN G INFO. Sundays roster are up. Still looking for raidleader to lead second 10man group! ",
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 241463.696,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

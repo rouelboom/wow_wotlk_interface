@@ -1,0 +1,111 @@
+
+AAPC1 = {
+	["Пламегор"] = {
+		["Хрукцион"] = {
+			["Elite"] = {
+			},
+			["Completed"] = {
+			},
+			["Zones"] = {
+				["1-5Human-Warlock"] = 1,
+			},
+		},
+	},
+	["Mograine"] = {
+		["Sourcer"] = {
+			["Elite"] = {
+			},
+			["Completed"] = {
+			},
+			["Zones"] = {
+				["1-12OrcTroll-Shaman"] = 1,
+			},
+		},
+		["Nomenth"] = {
+			["Elite"] = {
+			},
+			["Completed"] = {
+			},
+			["Zones"] = {
+				["1-12NightElf-Druid"] = 1,
+			},
+		},
+		["Ambracer"] = {
+			["Elite"] = {
+			},
+			["Zones"] = {
+				["28-30Duskwood"] = 2,
+			},
+			["Completed"] = {
+			},
+		},
+		["Ambraser"] = {
+			["Elite"] = {
+			},
+			["Zones"] = {
+				["1-5Human-Mage"] = 1,
+			},
+			["Completed"] = {
+			},
+		},
+		["Postographer"] = {
+			["Elite"] = {
+			},
+			["Completed"] = {
+			},
+			["Zones"] = {
+				["1-6DwarfGnome-Rogue"] = 1,
+			},
+		},
+	},
+	["Firemaw"] = {
+		["Nomen"] = {
+			["Elite"] = {
+			},
+			["Zones"] = {
+				["1-12NightElf-Druid"] = 1,
+			},
+			["Completed"] = {
+			},
+		},
+		["Tolain"] = {
+			["Elite"] = {
+			},
+			["Completed"] = {
+			},
+			["Zones"] = {
+				["21-22AshenvaleStonetalon"] = 72,
+				["18-20RedridgeMountains"] = 32,
+				["5-12Human-Paladin"] = 139,
+				["28-30Duskwood"] = 3,
+				["22-24Darkshore"] = 21,
+				["20-RedridgeDarkshore"] = 14,
+				["12-13Human-LochModan-Darkshore"] = 58,
+				["20-21Darkshore"] = 25,
+				["12-17Darkshore"] = 102,
+			},
+		},
+		["Torket"] = {
+			["Elite"] = {
+			},
+			["Completed"] = {
+			},
+			["Zones"] = {
+				["31-32HillsbradFoothills"] = 16,
+			},
+		},
+		["Nowarguy"] = {
+			["Elite"] = {
+			},
+			["Completed"] = {
+			},
+			["Zones"] = {
+				[1423] = 1,
+			},
+		},
+	},
+}
+AAPC2 = nil
+AAPC3 = nil
+AAPCQuestNames = nil
+AAPC_HoldZoneVar = nil

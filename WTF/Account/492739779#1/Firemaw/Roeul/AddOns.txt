@@ -1,0 +1,6 @@
+Auctionator: enabled
+Details: disabled
+Details_Streamer: disabled
+Details_TinyThreat: disabled
+DruidMacroHelper: disabled
+Gathering: disabled

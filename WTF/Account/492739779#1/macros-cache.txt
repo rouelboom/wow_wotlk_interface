@@ -1,0 +1,70 @@
+VER 3 0000000000000005 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:ctrl] умение 4;[mod:alt] умение 3;[mod:shift] умение 2;[nomod] умение 1
+END
+VER 3 000000000000000C "assist" "132097"
+/assist Erwinpp
+END
+VER 3 0000000000000002 "autoshot" "132162"
+#showtooltip Auto Shot
+/cast [@mouseover] [] Auto Shot
+/petattack  [@mouseover] []
+END
+VER 3 0000000000000001 "camera" "INV_MISC_QUESTIONMARK"
+/console cameraDistanceMaxZoomFactor 4
+END
+VER 3 000000000000000A "FF" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod,stance:1] Faerie Fire (Feral)
+/cast [nomod,stance:3] Faerie Fire (Feral)
+/cast Faerie Fire
+END
+VER 3 0000000000000010 "guidelime" "136090"
+/guidelime
+END
+VER 3 0000000000000011 "heal" "INV_MISC_QUESTIONMARK"
+#showtooltip ВАШЕ_Заклинание
+/cast [mod:alt,@player]ВАШЕ_Заклинание
+/cast [nomod,@mouseover,help,nodead]ВАШЕ_Заклинание; ВАШЕ_Заклинание
+END
+VER 3 000000000000000E "judi" "INV_MISC_QUESTIONMARK"
+#showtooltip Judgement
+/startattack
+/cast Judgement
+/stopcasting
+/cast Seal of Righteousness
+END
+VER 3 0000000000000003 "petattack" "132131"
+/petattack  [@mouseover] {}
+END
+VER 3 0000000000000004 "petattack" "132131"
+#showtooltip
+/petattack  [@mouseover,exists][@target] Прерывание
+END
+VER 3 000000000000000F "qwe" "INV_MISC_QUESTIONMARK"
+/tar anaya
+/run SetRaidTarget("target", 8)
+END
+VER 3 000000000000000D "rake" "INV_MISC_QUESTIONMARK"
+/cast [nostealth] Rake; [stealth] Pounce
+END
+VER 3 0000000000000008 "regfire" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Moonfire
+/cast [mod:alt] Regrowth
+END
+VER 3 000000000000000B "rej" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod,@mouseover,help,nodead][nomod,help,nodead][nomod,@player]Rejuvenation
+/use [mod:shift] 13
+/use [mod:alt]Super Healing Potion
+END
+VER 3 0000000000000006 "trinket" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod] 14
+/cast [mod:shift] Hibernate
+END
+VER 3 0000000000000012 "trinket" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END

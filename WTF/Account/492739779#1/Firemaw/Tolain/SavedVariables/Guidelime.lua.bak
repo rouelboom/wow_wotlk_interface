@@ -1,0 +1,64 @@
+
+GuidelimeDataChar = {
+	["mainFrameHeight"] = 400,
+	["showUnavailableSteps"] = true,
+	["guideSkip"] = {
+		["TUGs The Ultimate (Leveling) Guides 20-24 Ashenvale,Duskwood"] = {
+		},
+		["TUGs The Ultimate (Leveling) Guides 18-20 DM,Redridge Mountains"] = {
+			[4] = false,
+		},
+		["TUGs The Ultimate (Leveling) Guides 24-29 Ashenvale,Wetlands"] = {
+			nil, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+			true, -- [5]
+			nil, -- [6]
+			nil, -- [7]
+			true, -- [8]
+			[33] = true,
+			[14] = true,
+			[39] = true,
+			[41] = true,
+			[43] = true,
+			[17] = true,
+			[18] = true,
+			[48] = true,
+			[38] = true,
+			[40] = true,
+			[42] = true,
+			[44] = true,
+			[49] = true,
+		},
+	},
+	["completedSteps"] = {
+	},
+	["arrowY"] = -20,
+	["arrowRelative"] = "TOP",
+	["mainFrameX"] = -101.2289657592773,
+	["mainFrameLocked"] = false,
+	["mainFrameWidth"] = 350,
+	["arrowLocked"] = false,
+	["editorFrameY"] = 0,
+	["showCompletedSteps"] = false,
+	["editorFrameX"] = 0,
+	["arrowSize"] = 64,
+	["mainFrameAlpha"] = 0.5,
+	["currentGuide"] = "TUGs The Ultimate (Leveling) Guides 24-29 Ashenvale,Wetlands",
+	["editorFrameRelative"] = "CENTER",
+	["arrowX"] = 0,
+	["mainFrameY"] = -55.21569061279297,
+	["mainFrameShowing"] = true,
+	["version"] = "2.038",
+	["guideSize"] = {
+		["TUGs The Ultimate (Leveling) Guides 20-24 Ashenvale,Duskwood"] = 152,
+		["TUGs The Ultimate (Leveling) Guides 18-20 DM,Redridge Mountains"] = 74,
+		["TUGs The Ultimate (Leveling) Guides 24-29 Ashenvale,Wetlands"] = 227,
+	},
+	["showArrow"] = true,
+	["mainFrameShowScrollBar"] = true,
+	["mainFrameFontSize"] = 14,
+	["mainFrameRelative"] = "RIGHT",
+	["arrowAlpha"] = 0.8,
+}

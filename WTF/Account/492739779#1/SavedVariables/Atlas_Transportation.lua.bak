@@ -1,0 +1,17 @@
+
+Atlas_TransportationDB = {
+	["profileKeys"] = {
+		["Ambraser - Mograine"] = "Default",
+		["Ambracer - Mograine"] = "Default",
+		["Nomenth - Mograine"] = "Default",
+		["Postographer - Mograine"] = "Default",
+		["Nomen - Firemaw"] = "Default",
+		["Sourcer - Mograine"] = "Default",
+		["Nowarguy - Firemaw"] = "Default",
+		["Хрукцион - Пламегор"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

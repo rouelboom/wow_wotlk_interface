@@ -1,0 +1,655 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:54]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Kjellbigset:1:CHANNEL:3|h|cffffffffKjellbigset|r|h|cffd8d8d8]|r: Why are you all complaining? This is true launch experience",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466034.809,
+					["serverTime"] = 1663003434,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:55]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Bluedog:2:CHANNEL:3|h|cfff48cbaBluedog|r|h|cffd8d8d8]|r: I hear Mograine is lovely this time of year",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466035.176,
+					["serverTime"] = 1663003435,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:55]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Qilp:3:CHANNEL:3|h|cffc41e3aQilp|r|h|cffd8d8d8]|r: its not a flex, its facts, some ppl think its the pcs of players or some connection",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466035.176,
+					["serverTime"] = 1663003435,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:55]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Pizo:4:CHANNEL:3|h|cffff7c0aPizo|r|h|cffd8d8d8]|r: dude cant even talk to bg without dc every 15s",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466035.792,
+					["serverTime"] = 1663003435,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:56]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Horsemanwar:5:CHANNEL:3|h|cffc69b6dHorsemanwar|r|h|cffd8d8d8]|r: blizzard vs monsanto. WHO IS MORE BAD?",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466036.992,
+					["serverTime"] = 1663003436,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:58]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Xioill:6:CHANNEL:3|h|cff3fc6eaXioill|r|h|cffd8d8d8]|r: [WTS]BT/MH/SWP|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|tCome & Get All Gear You Need!|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|tRock-Bottom Price|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t/w Me",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466038.709,
+					["serverTime"] = 1663003438,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:58]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Bhishma:7:CHANNEL:3|h|cff0070ddBhishma|r|h|cffd8d8d8]|r: whoever gets that guidl name first becomes the king of the server",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466038.709,
+					["serverTime"] = 1663003438,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:59]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Qilp-Firemaw:8:CHANNEL:3|h|cffc41e3aQilp|r|h|cffd8d8d8]|r: its completely blizzard side",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466039.325,
+					["serverTime"] = 1663003439,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:59]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Korken:9:CHANNEL:3|h|cff8787edKorken|r|h|cffd8d8d8]|r: Just gonna mention the fact that were paying for this",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466039.826,
+					["serverTime"] = 1663003439,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:07]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Prettygoat:10:CHANNEL:3|h|cff3fc6eaPrettygoat|r|h|cffd8d8d8]|r: what lagg?",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466047.309,
+					["serverTime"] = 1663003447,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:08]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Urpog:11:CHANNEL:3|h|cffc41e3aUrpog|r|h|cffd8d8d8]|r: LFM TANKS and HEAL FOR |cffffff00|Hachievement:614:Player-4467-036B4C3E:0:0:0:-1:0:0:0:0|h[For The Alliance!]|h|r GOING NOW get your Black war bear mount /w me or Lowprofile last spots!!!",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466048.259,
+					["serverTime"] = 1663003448,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:11]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Spitelash:15:CHANNEL:3|h|cff0070ddSpitelash|r|h|cffd8d8d8]|r: how was this server not laggy with 15k ques but now is",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466051.509,
+					["serverTime"] = 1663003451,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:11]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Generaika:16:CHANNEL:3|h|cfff48cbaGeneraika|r|h|cffd8d8d8]|r: why don't they disable dungeon queue function... i'm pretty sure its the reason",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466051.509,
+					["serverTime"] = 1663003451,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:12]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Wallahpeelme:17:CHANNEL:3|h|cffaad372Wallahpeelme|r|h|cffd8d8d8]|r: monthly fee for this :))",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466052.109,
+					["serverTime"] = 1663003452,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:14]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Bhishma-Firemaw:19:CHANNEL:3|h|cff0070ddBhishma|r|h|cffd8d8d8]|r: |cffffffff|Hitem:5863::::::::70:::::::::|h[Guild Charter]|h|r|cffffffff|Hitem:5863::::::::70:::::::::|h[Guild Charter]|h|r",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466054.125,
+					["serverTime"] = 1663003454,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:16]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Xyphers:21:CHANNEL:3|h|cffc41e3aXyphers|r|h|cffd8d8d8]|r: LFM Healers SWP TONIGHT 20:00 & BT 21:30 semi guild run. Softres 2x SR legendary/BoE pattern reserved. Make sure to post gear |cffffffff|Hurl:https://discord.gg/HszY5ves|h[https://discord.gg/HszY5ves]|h|r /w for more info",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466056.259,
+					["serverTime"] = 1663003456,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						36, -- [4]
+						["n"] = 4,
+					},
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:21]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Marcous:24:CHANNEL:3|h|cffc69b6dMarcous|r|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|t LFM Sunwell Plateau GDKP Going When Full- Need Mixed Buyer and Carry dps/healer- 80% even split(All Items Starts 1k) Bow Presold and gold into pot (21/25)",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466061.275,
+					["serverTime"] = 1663003461,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						38, -- [4]
+						["n"] = 4,
+					},
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:24]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Nordjyden:26:CHANNEL:3|h|cff8787edNordjyden|r|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_4:0|t |cffffd000|Htrade:Player-4467-00BC5B0E:28029:333|h[Enchanting]|h|r |cffffd000|Htrade:Player-4467-00BC5B0E:45361:773|h[Inscription]|h|r LFW! Mongoose Executioner/Soulfrost|| I got all Enchants in the game! Can make Glyph of Pestilence |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_4:0|t",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466065.076,
+					["serverTime"] = 1663003464,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:32]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Urpog-Firemaw:33:CHANNEL:3|h|cffc41e3aUrpog|r|h|cffd8d8d8]|r: LFM TANKS and HEAL FOR [For The Alliance!] GOING NOW get your Black war bear mount /w me or Lowprofile last spots!!! Summ rdy",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466072.209,
+					["serverTime"] = 1663003472,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:33]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Kosmotorious:34:CHANNEL:3|h|cffff7c0aKosmotorious|r|h|cffd8d8d8]|r: paying to play lag",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466074.02,
+					["serverTime"] = 1663003473,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						48, -- [4]
+						["n"] = 4,
+					},
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:37]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Moongoose-Firemaw:36:CHANNEL:3|h|cffd8d83f70|r:|cffc69b6dMoongoose|r|h|cffd8d8d8]|r: WTS SCROLL OF LAG-FREE EXPERIENCE. pm for price",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466077.314,
+					["serverTime"] = 1663003477,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						50, -- [4]
+						["n"] = 4,
+					},
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:37]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Jestahr:38:CHANNEL:3|h|cfffff468Jestahr|r|h|cffd8d8d8]|r: Im not lagging at all",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466077.892,
+					["serverTime"] = 1663003477,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:05]|h|r You have been disconnected from Blizzard services.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 466105.243,
+					["serverTime"] = 1663003505,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [23]
+			},
+			["headIndex"] = 23,
+			["maxElements"] = 128,
+		},
+		["ChatFrame4"] = {
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:05]|h|r You have been disconnected from Blizzard services.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 466105.243,
+					["serverTime"] = 1663003505,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [1]
+			},
+			["headIndex"] = 1,
+			["maxElements"] = 128,
+		},
+		["ChatFrame1"] = {
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:12:31]|h|r Guild Message of the Day: Enjoy summer, raiding paused for a bit until people are back from vacations etc",
+					["g"] = 1,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 466032.983,
+					["serverTime"] = 1663003432,
+					["b"] = 0.250980406999588,
+				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 466032.983,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 466032.983,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:37]|h|r |cff30fc96Questie|r: |cff00bc32Hiding drop-down menus on the World Map.|r This is currently necessary as a workaround for a bug in the default Blizzard UI related to drop-down menus.",
+					["timestamp"] = 466016.099,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:38]|h|r |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.138-wotlkc (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our two daughters.",
+					["r"] = 1,
+					["timestamp"] = 466016.099,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:53]|h|r |cffffe566{VuhDo}|r Profile successfully loaded: druid party",
+					["r"] = 1,
+					["b"] = 0.2,
+					["timestamp"] = 466032.983,
+					["serverTime"] = 1663003433,
+					["g"] = 0.7,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:53]|h|r Guild Message of the Day: Enjoy summer, raiding paused for a bit until people are back from vacations etc",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 466032.983,
+					["serverTime"] = 1663003433,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:58]|h|r |cff33ff99Questie|r: Current active phase of Isle of Quel'Danas is 'Phase 1 - Sun's Reach Sanctum'. Check the General settings to change the phase or disable this message.",
+					["timestamp"] = 466038.559,
+					["serverTime"] = 1663003438,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:08]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Firelesswow:12:CHANNEL:4|h|cffaad372Firelesswow|r|h|cffd8d8d8]|r: Portal darnassus plssssssss",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466048.259,
+					["serverTime"] = 1663003448,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:11]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Raiudd-Firemaw:14:CHANNEL:2|h|cffff7c0aRaiudd|r|h|cffd8d8d8]|r: it is not a transfer problem, in firemaw there is not even a queue",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466051.275,
+					["serverTime"] = 1663003451,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:12]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Firelesswow-Firemaw:18:CHANNEL:4|h|cffaad372Firelesswow|r|h|cffd8d8d8]|r: Portal darnassus plssssssss",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466052.775,
+					["serverTime"] = 1663003452,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:15]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Fîce:20:CHANNEL:2|h|cfff48cbaFîce|r|h|cffd8d8d8]|r: are they gonna fix it?",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466055.759,
+					["serverTime"] = 1663003455,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						25, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:23]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Fîce-Firemaw:25:CHANNEL:2|h|cfff48cbaFîce|r|h|cffd8d8d8]|r: they should lock this server again",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466063.578,
+					["serverTime"] = 1663003463,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						25, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:29]|h|r You are now Neutral with Argent Dawn.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 466069.192,
+					["serverTime"] = 1663003469,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						42, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:29]|h|r [S] |cffd8d8d8[|r|Hplayer:Firelesswow-Firemaw:30:SAY|h|cff8b8b8b41|r:|cffaad372Firelesswow|r|h|cffd8d8d8]|r: POortal darnassus pls",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 466069.324,
+					["serverTime"] = 1663003469,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:30]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sangiae-Firemaw:31:CHANNEL:2|h|cff8787edSangiae|r|h|cffd8d8d8]|r: it is",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466071.08,
+					["serverTime"] = 1663003470,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						25, -- [3]
+						46, -- [4]
+						["n"] = 4,
+					},
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:31]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Fîce-Firemaw:32:CHANNEL:2|h|cfff48cbaFîce|r|h|cffd8d8d8]|r: its not funny anymore",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 466071.426,
+					["serverTime"] = 1663003471,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						25, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:05]|h|r You have been disconnected from Blizzard services.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 466105.243,
+					["serverTime"] = 1663003505,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [18]
+			},
+			["headIndex"] = 18,
+			["maxElements"] = 128,
+		},
+		["ChatFrame3"] = {
+			["elements"] = {
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["g"] = 1,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 466032.983,
+					["serverTime"] = 1663003432,
+					["b"] = 0,
+				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 466032.983,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 466032.983,
+				}, -- [3]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 466016.099,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:05]|h|r You have been disconnected from Blizzard services.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 466105.243,
+					["serverTime"] = 1663003505,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [5]
+			},
+			["headIndex"] = 5,
+			["maxElements"] = 128,
+		},
+	},
+}

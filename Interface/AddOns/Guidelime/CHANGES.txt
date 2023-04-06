@@ -1,0 +1,18 @@
+tag 83547843a48c914bdcb96b5556550edfc1688080 v3.024
+Author:	max-ri <51713394+max-ri@users.noreply.github.com>
+Date:	Sat Feb 18 10:11:23 2023 +0100
+
+v3.024
+
+commit 6a82464c3eb7e70330d2e00b5182feb216482938
+Author: max-ri <51713394+max-ri@users.noreply.github.com>
+Date:   Sat Feb 18 10:11:23 2023 +0100
+
+    v3.024
+
+commit acc236a47de30420f9c4cb13b72825c85d92286e
+Author: max-ri <51713394+max-ri@users.noreply.github.com>
+Date:   Sat Feb 18 10:10:54 2023 +0100
+
+    bugfix
+

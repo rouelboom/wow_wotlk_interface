@@ -1,0 +1,5 @@
+
+GatheringSettings = {
+	["track-cloth"] = true,
+}
+GatheringIgnore = nil

@@ -1,0 +1,888 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 4,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["serverTime"] = 1666518258,
+					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 30838.334,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 30838.334,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 30838.334,
+				}, -- [3]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 30830.823,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [4]
+			},
+			["maxElements"] = 4096,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 60,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "AAP-TBC-Classic - Error - This is not Classic! Not Loading",
+					["timestamp"] = 30830.823,
+				}, -- [1]
+				{
+					["message"] = "|cFFFFB900<GatherLite>|r |cB900FFFF6.0.1|r has been loaded",
+					["timestamp"] = 30830.823,
+				}, -- [2]
+				{
+					["message"] = "|cFFFFB900<GatherLite>|r use |cFF00FF00/gather|r or |cFF00FF00/gatherlite|r to access addon settings",
+					["timestamp"] = 30830.823,
+				}, -- [3]
+				{
+					["message"] = "|cFFFFB900<GatherLite>|r Keep this addon alive by donating a coffee at |cff00FFFFhttps://www.buymeacoffee.com/yuImx6KOY|r",
+					["timestamp"] = 30830.823,
+				}, -- [4]
+				{
+					["message"] = "|cff30fc96Questie|r: |cff00bc32Hiding drop-down menus on the World Map.|r This is currently necessary as a workaround for a bug in the default Blizzard UI related to drop-down menus.",
+					["timestamp"] = 30830.823,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:44:15]|h|r |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.138-wotlkc (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our two daughters.",
+					["r"] = 1,
+					["timestamp"] = 30830.823,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:44:18]|h|r |cFFFFB900<GatherLite>|r Loading predefined database, this may cause the game to lag for a few seconds!",
+					["timestamp"] = 30838.334,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:44:20]|h|r |cFFffff00[Questie]|r The 'Hallow's End' world event is active!",
+					["timestamp"] = 30839.834,
+					["serverTime"] = 1666518260,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:44:20]|h|r Total time played: 0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 34 |4second:seconds;",
+					["serverTime"] = 1666518260,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 30840.517,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:44:20]|h|r Time played this level: 0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 34 |4second:seconds;",
+					["serverTime"] = 1666518260,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 30840.517,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:44:23]|h|r |cff33ff99Questie|r: Current active phase of Isle of Quel'Danas is 'Phase 4.1 - Building the Monument to the Fallen'. Check the General settings to change the phase or disable this message.",
+					["timestamp"] = 30843.251,
+					["serverTime"] = 1666518263,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:44:37]|h|r Discovered Coldridge Pass: 35 experience gained",
+					["serverTime"] = 1666518277,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 30857.485,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:44:44]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Damenier:2:CHANNEL:4|h|cfff48cbaDamenier|r|h|cffd8d8d8]|r: LF1M  heal norm Gundrak",
+					["serverTime"] = 1666518284,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 30864.184,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:44:46]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Mcwomanizer:3:CHANNEL:4|h|cffc69b6dMcwomanizer|r|h|cffd8d8d8]|r: LF DPS cos HC",
+					["serverTime"] = 1666518286,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 30866.001,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:44:47]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Jáaz:4:CHANNEL:4|h|cfff48cbaJáaz|r|h|cffd8d8d8]|r: LF healer Horseman - Pet HR",
+					["serverTime"] = 1666518287,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 30867.501,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:44:49]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Sero:5:CHANNEL:4|h|cfffff468Sero|r|h|cffd8d8d8]|r: LFM Naxx 10 Only SAP + KEL run, 3700  GS min -  Tank and 2 dps",
+					["serverTime"] = 1666518289,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 30869.118,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r |cFFFFA500KeepTheHerbs:|r Your running the The Burning Crusade Era version of KeepTheHerbs.",
+					["timestamp"] = 30870.834,
+					["serverTime"] = 1666518291,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r |cFFFFA500KeepTheHerbs:|r Please download the right version.",
+					["timestamp"] = 30870.834,
+					["serverTime"] = 1666518291,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:45:03]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Chitra:6:CHANNEL:4|h|cffc69b6dChitra|r|h|cffd8d8d8]|r: LFM |Hquestie:11892:Player-4701-03173B19|h|cFFFF1A1A[|r|cFFFF1A1A[72] The Assassination of Harold Lane|r|cFFFF1A1A]|r|h",
+					["serverTime"] = 1666518303,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 30883.417,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:45:14]|h|r Your skill in Defense has increased to 2.",
+					["serverTime"] = 1666518314,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 30893.868,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:45:17]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Damenier-Mograine:8:CHANNEL:4|h|cfff48cbaDamenier|r|h|cffd8d8d8]|r: LF1M  heal norm Gundrak",
+					["serverTime"] = 1666518317,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 30897.551,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:45:19]|h|r Your skill in Defense has increased to 3.",
+					["serverTime"] = 1666518319,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 30898.718,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:45:22]|h|r Your skill in Defense has increased to 4.",
+					["serverTime"] = 1666518322,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 30902.369,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:45:47]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Navarisdobre:11:CHANNEL:4|h|cffff7c0aNavarisdobre|r|h|cffd8d8d8]|r: LF1M DPS or HEALER AN and Kingdom",
+					["serverTime"] = 1666518347,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 30927.584,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:46:09]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Navarisdobre-Mograine:12:CHANNEL:4|h|cffff7c0aNavarisdobre|r|h|cffd8d8d8]|r: LF1M DPS or HEALER AN and Kingdom",
+					["serverTime"] = 1666518369,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 30949.135,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:46:21]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Chitra-Mograine:13:CHANNEL:4|h|cffc69b6dChitra|r|h|cffd8d8d8]|r: LFM |Hquestie:11892:Player-4701-03173B19|h|cFFFF1A1A[|r|cFFFF1A1A[72] The Assassination of Harold Lane|r|cFFFF1A1A]|r|h",
+					["serverTime"] = 1666518381,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 30961.101,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:47:10]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Navarisdobre-Mograine:14:CHANNEL:4|h|cffff7c0aNavarisdobre|r|h|cffd8d8d8]|r: LF1M DPS or HEALER AN and Kingdom",
+					["serverTime"] = 1666518430,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31010.485,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:47:26]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Dratholn:15:CHANNEL:4|h|cffff7c0aDratholn|r|h|cffd8d8d8]|r: LFG |Hquestie:12456:Player-4701-0343BDD1|h|cFFFF1A1A[|r|cFFFF1A1A[74] The Plume of Alystros|r|cFFFF1A1A]|r|h",
+					["serverTime"] = 1666518446,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31025.735,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:47:44]|h|r Discovered Kharanos: 45 experience gained",
+					["serverTime"] = 1666518464,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31044.201,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:47:59]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Yoseiki:17:CHANNEL:4|h|cfffff468Yoseiki|r|h|cffd8d8d8]|r: LFG dps horseman",
+					["serverTime"] = 1666518479,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31058.868,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:48:12]|h|r Candy Bucket completed.",
+					["serverTime"] = 1666518492,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31072.252,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:48:12]|h|r Experience gained: 40.",
+					["serverTime"] = 1666518492,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31072.252,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:48:12]|h|r You receive item: |cffffffff|Hitem:37586::::::::1:::::::::|h[Handful of Candy]|h|r.",
+					["serverTime"] = 1666518492,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31072.269,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:48:12]|h|r |cffd8d8d8[|r|Hplayer:Postographer-Mograine:22:ACHIEVEMENT|h|cffd8d83f1|r:|cfffff468Postographer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:972:Player-4701-03A9810B:1:10:23:22:4294967295:4294967295:4294967295:4294967295|h[Trick or Treat!]|h|r |cffffffff(|rCompleted 23/10/22|cffffffff)|r!",
+					["serverTime"] = 1666518492,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31072.368,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:48:15]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Dufensmhirtz:23:CHANNEL:4|h|cffaad372Dufensmhirtz|r|h|cffd8d8d8]|r: LFM EoE25 NEED ALL W GS AND SPEC",
+					["serverTime"] = 1666518495,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31075.235,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:48:19]|h|r Thunderbrew Distillery is now your home.",
+					["serverTime"] = 1666518499,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31078.685,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:48:22]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Yoseiki-Mograine:25:CHANNEL:4|h|cfffff468Yoseiki|r|h|cffd8d8d8]|r: LFG dps horseman",
+					["serverTime"] = 1666518502,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31082.402,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:48:50]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Yoseiki-Mograine:26:CHANNEL:4|h|cfffff468Yoseiki|r|h|cffd8d8d8]|r: LFG dps horseman",
+					["serverTime"] = 1666518530,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31110.518,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:48:53]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Sero-Mograine:27:CHANNEL:4|h|cfffff468Sero|r|h|cffd8d8d8]|r: LFM Naxx 10 Only SAP + KEL run, 3700  GS min -  Need tank",
+					["serverTime"] = 1666518533,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31113.018,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:49:24]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Yoseiki-Mograine:28:CHANNEL:4|h|cfffff468Yoseiki|r|h|cffd8d8d8]|r: LFG dps horseman",
+					["serverTime"] = 1666518564,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31143.952,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:49:25]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Koldkaffe:29:CHANNEL:4|h|cffc41e3aKoldkaffe|r|h|cffd8d8d8]|r: LFM HoL HC Need 1 dps and healer",
+					["serverTime"] = 1666518565,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31144.802,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:49:38]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Chitra-Mograine:30:CHANNEL:4|h|cffc69b6dChitra|r|h|cffd8d8d8]|r: LFM |Hquestie:11892:Player-4701-03173B19|h|cFFFF1A1A[|r|cFFFF1A1A[72] The Assassination of Harold Lane|r|cFFFF1A1A]|r|h",
+					["serverTime"] = 1666518578,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31157.968,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:49:45]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Yoseiki-Mograine:31:CHANNEL:4|h|cfffff468Yoseiki|r|h|cffd8d8d8]|r: LFG dps horseman",
+					["serverTime"] = 1666518585,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31164.668,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:49:45]|h|r Discovered Gates of Ironforge: 55 experience gained",
+					["serverTime"] = 1666518585,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31165.052,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:49:49]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Dufensmhirtz-Mograine:33:CHANNEL:4|h|cffaad372Dufensmhirtz|r|h|cffd8d8d8]|r: LFM EoE25 NEED ALL W GS AND SPEC",
+					["serverTime"] = 1666518589,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31168.868,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:18]|h|r Discovered Ironforge: 55 experience gained",
+					["serverTime"] = 1666518618,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31198.618,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:19]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Ironforge]|h",
+					["serverTime"] = 1666518619,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31198.818,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:19]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Ironforge]|h",
+					["serverTime"] = 1666518619,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						33, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31198.818,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:23]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Hullubullu:37:CHANNEL:2|h|cffffffffHullubullu|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Everything is BIS|r|cffffffff>|r is looking for DPS to fill the second 25 man roster. Everything is cleared in both groups. Raid times are Sunday at 19:00. Whisper me for any questions.",
+					["serverTime"] = 1666518623,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31203.002,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:23]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Koldkaffe-Mograine:38:CHANNEL:4|h|cffc41e3aKoldkaffe|r|h|cffd8d8d8]|r: LFM HoL HC Need 1 dps and healer",
+					["serverTime"] = 1666518623,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31203.002,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:23]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Damenier-Mograine:39:CHANNEL:4|h|cfff48cbaDamenier|r|h|cffd8d8d8]|r: LF1M  heal norm Gundrak",
+					["serverTime"] = 1666518623,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31203.618,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:29]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Anotherrun:40:CHANNEL:4|h|cfff48cbaAnotherrun|r|h|cffd8d8d8]|r: LFM CoS HC Healer",
+					["serverTime"] = 1666518629,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31208.903,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:32]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Chitra-Mograine:41:CHANNEL:4|h|cffc69b6dChitra|r|h|cffd8d8d8]|r: LFM |Hquestie:11892:Player-4701-03173B19|h|cFFFF1A1A[|r|cFFFF1A1A[72] The Assassination of Harold Lane|r|cFFFF1A1A]|r|h",
+					["serverTime"] = 1666518632,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31212.22,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:37]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Thatsdoner:42:CHANNEL:4|h|cffaad372Thatsdoner|r|h|cffd8d8d8]|r: Lf Healer + 2 dps Gundrak+CoS HC dailys!",
+					["serverTime"] = 1666518637,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31217.252,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:39]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Powdery:43:CHANNEL:2|h|cff8787edPowdery|r|h|cffd8d8d8]|r: WTB wand uses for |cffffff00|Hachievement:283:Player-4701-009B7AE6:0:0:0:-1:69:0:0:0|h[The Masquerade]|h|r. I can offer Leper or 20g each :)",
+					["serverTime"] = 1666518639,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						36, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31218.769,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:40]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Iliam:44:CHANNEL:4|h|cff3fc6eaIliam|r|h|cffd8d8d8]|r: LF HELP|Hquestie:12148:Player-4701-0341752D|h|cFFFF1A1A[|r|cFFFF1A1A[73] One of a Kind|r|cFFFF1A1A]|r|h",
+					["serverTime"] = 1666518640,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31220.135,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:40]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sero-Mograine:45:CHANNEL:2|h|cfffff468Sero|r|h|cffd8d8d8]|r: LFM Naxx 10 Only SAP + KEL run, 3700  GS min -  Need tank - Fast run",
+					["serverTime"] = 1666518640,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						36, -- [3]
+						47, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31220.369,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:49]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Batito:46:CHANNEL:2|h|cffffffffBatito|r|h|cffd8d8d8]|r: LFM NAXX 10 Need 2 Tanks 1 Heal and RDPS",
+					["serverTime"] = 1666518649,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						36, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31229.019,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:50]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Thatsdoner-Mograine:47:CHANNEL:4|h|cffaad372Thatsdoner|r|h|cffd8d8d8]|r: Lf Healer + 2 dps Gundrak+CoS HC dailys!",
+					["serverTime"] = 1666518650,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31230.185,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[12:50:54]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Yoseiki-Mograine:48:CHANNEL:4|h|cfffff468Yoseiki|r|h|cffd8d8d8]|r: LFG dps horseman",
+					["serverTime"] = 1666518654,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						3, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 31234.102,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [60]
+			},
+			["maxElements"] = 4096,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}
