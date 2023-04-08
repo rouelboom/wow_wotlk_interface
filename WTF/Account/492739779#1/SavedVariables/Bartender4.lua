@@ -91,8 +91,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -101,8 +101,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -289,60 +289,60 @@ Bartender4DB = {
 				["Хрукцион - Пламегор"] = {
 					["actionbars"] = {
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
+								["y"] = 41.75,
 								["x"] = -510,
 								["point"] = "BOTTOM",
-								["y"] = 41.75,
 							},
-							["padding"] = 6,
 						}, -- [1]
 						{
 							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
+								["y"] = -207.0000228881836,
 								["x"] = -230.5,
 								["point"] = "CENTER",
-								["y"] = -207.0000228881836,
 							},
 						}, -- [2]
 						{
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
+								["y"] = 610,
 								["x"] = -82,
 								["point"] = "BOTTOMRIGHT",
-								["y"] = 610,
 							},
-							["padding"] = 5,
 						}, -- [3]
 						{
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
+								["y"] = 610,
 								["x"] = -42,
 								["point"] = "BOTTOMRIGHT",
-								["y"] = 610,
 							},
-							["padding"] = 5,
 						}, -- [4]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
+								["y"] = 110,
 								["x"] = 3,
 								["point"] = "BOTTOM",
-								["y"] = 110,
 							},
-							["padding"] = 6,
 						}, -- [5]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
+								["y"] = 110,
 								["x"] = -510,
 								["point"] = "BOTTOM",
-								["y"] = 110,
 							},
-							["padding"] = 6,
 						}, -- [6]
 						{
 						}, -- [7]
@@ -365,14 +365,14 @@ Bartender4DB = {
 		["MicroMenu"] = {
 			["profiles"] = {
 				["Ambracer - Mograine"] = {
-					["padding"] = -2,
-					["version"] = 3,
 					["position"] = {
 						["y"] = 42,
 						["x"] = -353,
 						["point"] = "BOTTOMRIGHT",
 						["scale"] = 1,
 					},
+					["version"] = 3,
+					["padding"] = -2,
 				},
 				["Nomenth - Mograine"] = {
 					["padding"] = -2,
@@ -405,12 +405,12 @@ Bartender4DB = {
 					},
 				},
 				["Хрукцион - Пламегор"] = {
-					["version"] = 3,
 					["padding"] = -2,
+					["version"] = 3,
 					["position"] = {
+						["scale"] = 1,
 						["x"] = 33,
 						["point"] = "BOTTOM",
-						["scale"] = 1,
 						["y"] = 42,
 					},
 				},
@@ -419,8 +419,8 @@ Bartender4DB = {
 		["BagBar"] = {
 			["profiles"] = {
 				["Ambracer - Mograine"] = {
-					["verticalAlignment"] = "CENTER",
 					["onebag"] = true,
+					["verticalAlignment"] = "CENTER",
 					["version"] = 3,
 					["position"] = {
 						["y"] = 42,
@@ -459,26 +459,26 @@ Bartender4DB = {
 					},
 				},
 				["Хрукцион - Пламегор"] = {
-					["version"] = 3,
-					["position"] = {
-						["x"] = 304,
-						["point"] = "BOTTOM",
-						["y"] = 42,
-					},
 					["verticalAlignment"] = "CENTER",
 					["padding"] = 4,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 304,
+						["point"] = "BOTTOM",
+					},
 				},
 			},
 		},
 		["BlizzardArt"] = {
 			["profiles"] = {
 				["Ambracer - Mograine"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -512,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
 				},
 				["Nomenth - Mograine"] = {
 					["enabled"] = true,
@@ -511,9 +511,9 @@ Bartender4DB = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
+						["y"] = 47,
 						["x"] = -512,
 						["point"] = "BOTTOM",
-						["y"] = 47,
 					},
 				},
 			},
@@ -522,12 +522,12 @@ Bartender4DB = {
 			["profiles"] = {
 				["Ambracer - Mograine"] = {
 					["enabled"] = true,
-					["version"] = 3,
 					["position"] = {
 						["y"] = 3.99993896484375,
 						["x"] = 318.5082702636719,
 						["point"] = "TOPLEFT",
 					},
+					["version"] = 3,
 				},
 				["Nomenth - Mograine"] = {
 					["enabled"] = true,
@@ -560,9 +560,9 @@ Bartender4DB = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
+						["y"] = 54,
 						["x"] = -514,
 						["point"] = "BOTTOM",
-						["y"] = 54,
 					},
 				},
 			},
@@ -607,9 +607,9 @@ Bartender4DB = {
 				["Хрукцион - Пламегор"] = {
 					["version"] = 3,
 					["position"] = {
+						["y"] = -15.00005340576172,
 						["x"] = -82.5000228881836,
 						["point"] = "CENTER",
-						["y"] = -15.00005340576172,
 					},
 				},
 			},
@@ -617,12 +617,12 @@ Bartender4DB = {
 		["Vehicle"] = {
 			["profiles"] = {
 				["Ambracer - Mograine"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = -57.495361328125,
 						["x"] = 364.3995361328125,
 						["point"] = "CENTER",
 					},
+					["version"] = 3,
 				},
 				["Nomenth - Mograine"] = {
 					["version"] = 3,
@@ -651,9 +651,9 @@ Bartender4DB = {
 				["Хрукцион - Пламегор"] = {
 					["version"] = 3,
 					["position"] = {
+						["y"] = 42.49990844726563,
 						["x"] = 104.5,
 						["point"] = "CENTER",
-						["y"] = 42.49990844726563,
 					},
 				},
 			},
@@ -695,9 +695,9 @@ Bartender4DB = {
 				["Хрукцион - Пламегор"] = {
 					["version"] = 3,
 					["position"] = {
+						["y"] = 143,
 						["x"] = -460,
 						["point"] = "BOTTOM",
-						["y"] = 143,
 					},
 				},
 			},
@@ -706,12 +706,12 @@ Bartender4DB = {
 			["profiles"] = {
 				["Ambracer - Mograine"] = {
 					["enabled"] = true,
-					["version"] = 3,
 					["position"] = {
 						["y"] = -22.79736328125,
 						["x"] = 320.1014709472656,
 						["point"] = "TOPLEFT",
 					},
+					["version"] = 3,
 				},
 				["Nomenth - Mograine"] = {
 					["enabled"] = true,
@@ -744,9 +744,9 @@ Bartender4DB = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
+						["y"] = 61,
 						["x"] = -514,
 						["point"] = "BOTTOM",
-						["y"] = 61,
 					},
 				},
 			},

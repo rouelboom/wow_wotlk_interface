@@ -8,16 +8,14 @@ XLootADB = {
 						["visible"] = false,
 					},
 					["roll_anchor"] = {
-						["visible"] = false,
-						["x"] = 456.2666320800781,
 						["y"] = 323.2532653808594,
+						["x"] = 456.2666320800781,
+						["visible"] = false,
 					},
 				},
 			},
 		},
 		["Frame"] = {
-		},
-		["Master"] = {
 		},
 		["Monitor"] = {
 			["profiles"] = {
@@ -30,6 +28,8 @@ XLootADB = {
 				},
 			},
 		},
+		["Master"] = {
+		},
 	},
 	["profileKeys"] = {
 		["Sourcer - Mograine"] = "Default",
@@ -38,12 +38,12 @@ XLootADB = {
 		["Postographer - Mograine"] = "Default",
 		["Nomen - Firemaw"] = "Default",
 		["Роуэл - Пламегор"] = "Default",
-		["Ambracer - Mograine"] = "Default",
-		["Nowarguy - Firemaw"] = "Default",
+		["Willno - Mograine"] = "Default",
+		["Ambraser - Mograine"] = "Default",
 		["Torket - Firemaw"] = "Default",
 		["Tolain - Firemaw"] = "Default",
-		["Ambraser - Mograine"] = "Default",
-		["Willno - Mograine"] = "Default",
+		["Nowarguy - Firemaw"] = "Default",
+		["Ambracer - Mograine"] = "Default",
 		["Хрукцион - Пламегор"] = "Default",
 	},
 	["profiles"] = {

@@ -14,7 +14,7 @@ Prat3DB = {
 				["Default"] = {
 					["minchatwidthdefault"] = 296,
 					["maxchatheightdefault"] = 400,
-					["maxchatwidthdefault"] = 608,
+					["maxchatwidthdefault"] = 608.0000610351562,
 					["initialized"] = true,
 				},
 			},
@@ -24,19 +24,19 @@ Prat3DB = {
 				["Default"] = {
 					["colors"] = {
 						["localdefense"] = {
-							["b"] = 0.7529412508010864,
-							["g"] = 0.7529412508010864,
 							["r"] = 1,
+							["g"] = 0.7529412508010864,
+							["b"] = 0.7529412508010864,
 						},
 						["general"] = {
-							["b"] = 0.7529412508010864,
-							["g"] = 0.7529412508010864,
 							["r"] = 1,
+							["g"] = 0.7529412508010864,
+							["b"] = 0.7529412508010864,
 						},
 						["trade"] = {
-							["b"] = 0.7529412508010864,
-							["g"] = 0.7529412508010864,
 							["r"] = 1,
+							["g"] = 0.7529412508010864,
+							["b"] = 0.7529412508010864,
 						},
 					},
 				},
@@ -48,32 +48,25 @@ Prat3DB = {
 		},
 		["Prat_UrlCopy"] = {
 		},
-		["Prat_Bubbles"] = {
-		},
-		["Prat_ChatLog"] = {
-		},
-		["Prat_Sounds"] = {
-		},
-		["Prat_ChannelNames"] = {
-		},
 		["Prat_KeyBindings"] = {
 		},
 		["Prat_PopupMessage"] = {
 		},
 		["Prat_Scroll"] = {
 		},
+		["Prat_ChannelNames"] = {
+		},
+		["Prat_Bubbles"] = {
+		},
+		["Prat_Timestamps"] = {
+		},
+		["Prat_Sounds"] = {
+		},
 		["Prat_ChannelSticky"] = {
 		},
 		["Prat_Achievements"] = {
 		},
-		["Prat_Font"] = {
-			["profiles"] = {
-				["Default"] = {
-					["size"] = {
-						["ChatFrame1"] = 14,
-					},
-				},
-			},
+		["Prat_History"] = {
 		},
 		["Prat_Alias"] = {
 		},
@@ -87,11 +80,18 @@ Prat3DB = {
 		},
 		["Prat_Invites"] = {
 		},
-		["Prat_History"] = {
+		["Prat_Font"] = {
+			["profiles"] = {
+				["Default"] = {
+					["size"] = {
+						["ChatFrame1"] = 14,
+					},
+				},
+			},
 		},
 		["Prat_CopyChat"] = {
 		},
-		["Prat_Timestamps"] = {
+		["Prat_ChatLog"] = {
 		},
 		["Prat_Search"] = {
 		},
@@ -111,14 +111,14 @@ Prat3DB = {
 		["Роуэл - Пламегор"] = "Default",
 		["Torket - Firemaw"] = "Default",
 		["Tolain - Firemaw"] = "Default",
-		["Sourcer - Mograine"] = "Default",
 		["Nowarguy - Firemaw"] = "Default",
+		["Sourcer - Mograine"] = "Default",
 		["Хрукцион - Пламегор"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["modules"] = {
-				["ChatLog"] = 2,
+				["Alias"] = 2,
 				["Mentions"] = 2,
 				["PopupMessage"] = 2,
 				["AltNames"] = 2,
@@ -126,7 +126,7 @@ Prat3DB = {
 				["Paragraph"] = 2,
 				["KeyBindings"] = 2,
 				["OriginalButtons"] = 2,
-				["Alias"] = 2,
+				["ChatLog"] = 2,
 			},
 		},
 	},

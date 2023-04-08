@@ -1,15 +1,15 @@
 
 OmniCCDB = {
+	["global"] = {
+		["dbVersion"] = 6,
+		["addonVersion"] = "10.0.5",
+	},
 	["profileKeys"] = {
 		["Ambracer - Mograine"] = "Default",
 		["Nomenth - Mograine"] = "Default",
 		["Postographer - Mograine"] = "Default",
 		["Роуэл - Пламегор"] = "По умолчанию",
 		["Хрукцион - Пламегор"] = "По умолчанию",
-	},
-	["global"] = {
-		["dbVersion"] = 6,
-		["addonVersion"] = "10.0.5",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -18,9 +18,9 @@ OmniCCDB = {
 					["textStyles"] = {
 						["minutes"] = {
 						},
-						["soon"] = {
-						},
 						["seconds"] = {
+						},
+						["soon"] = {
 						},
 					},
 				},
@@ -28,9 +28,9 @@ OmniCCDB = {
 					["textStyles"] = {
 						["minutes"] = {
 						},
-						["soon"] = {
-						},
 						["seconds"] = {
+						},
+						["soon"] = {
 						},
 					},
 				},
@@ -116,9 +116,9 @@ OmniCCDB = {
 			["themes"] = {
 				["По умолчанию"] = {
 					["textStyles"] = {
-						["seconds"] = {
-						},
 						["soon"] = {
+						},
+						["seconds"] = {
 						},
 						["minutes"] = {
 						},
@@ -126,9 +126,9 @@ OmniCCDB = {
 				},
 				["Plater Nameplates Theme"] = {
 					["textStyles"] = {
-						["seconds"] = {
-						},
 						["soon"] = {
+						},
+						["seconds"] = {
 						},
 						["minutes"] = {
 						},

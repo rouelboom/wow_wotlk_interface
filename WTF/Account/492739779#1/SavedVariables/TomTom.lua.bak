@@ -4,6 +4,8 @@ TomTomDB = {
 		["Ambracer - Mograine"] = "Default",
 		["Nomenth - Mograine"] = "Default",
 		["Postographer - Mograine"] = "Default",
+		["Роуэл - Пламегор"] = "Default",
+		["Хрукцион - Пламегор"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -34,6 +36,8 @@ TomTomWaypointsM = {
 		["Ambracer - Mograine"] = "Ambracer - Mograine",
 		["Nomenth - Mograine"] = "Nomenth - Mograine",
 		["Postographer - Mograine"] = "Postographer - Mograine",
+		["Роуэл - Пламегор"] = "Роуэл - Пламегор",
+		["Хрукцион - Пламегор"] = "Хрукцион - Пламегор",
 	},
 	["profiles"] = {
 		["Ambracer - Mograine"] = {
@@ -41,6 +45,10 @@ TomTomWaypointsM = {
 		["Nomenth - Mograine"] = {
 		},
 		["Postographer - Mograine"] = {
+		},
+		["Роуэл - Пламегор"] = {
+		},
+		["Хрукцион - Пламегор"] = {
 		},
 	},
 }

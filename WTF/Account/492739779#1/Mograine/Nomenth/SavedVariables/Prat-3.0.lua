@@ -14,19 +14,65 @@ Prat3CharDB = {
 			},
 			["ChatFrame6EditBox"] = {
 			},
-			["ChatFrame1EditBox"] = {
-			},
-			["ChatFrame3EditBox"] = {
+			["ChatFrame9EditBox"] = {
 			},
 			["ChatFrame2EditBox"] = {
 			},
-			["ChatFrame9EditBox"] = {
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
 			},
 		},
 	},
 }
 Prat3HighCPUPerCharDB = {
 	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 4096,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 4096,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
 		["ChatFrame3"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 4,
@@ -44,10 +90,10 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["serverTime"] = 1680601491,
+					["serverTime"] = 1680776792,
 					["r"] = 1,
 					["b"] = 0,
-					["timestamp"] = 12572.316,
+					["timestamp"] = 79847.981,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
@@ -56,11 +102,11 @@ Prat3HighCPUPerCharDB = {
 				}, -- [1]
 				{
 					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
-					["timestamp"] = 12572.316,
+					["timestamp"] = 79847.981,
 				}, -- [2]
 				{
 					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 12572.316,
+					["timestamp"] = 79847.981,
 				}, -- [3]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
@@ -69,7 +115,7 @@ Prat3HighCPUPerCharDB = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 12563.967,
+					["timestamp"] = 79841.946,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [4]
@@ -81,9 +127,124 @@ Prat3HighCPUPerCharDB = {
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 4096,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 4096,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 4096,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 4096,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 4096,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 19,
+			["headIndex"] = 12,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -97,147 +258,69 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cFFFFFFAAPlater|r  Applied Update to Script: Cast - On Going Cast [P]",
-					["timestamp"] = 12563.967,
+					["message"] = "|cff979797|Hpratcopy|h[13:26:28]|h|r |cff30fc96Questie|r: |cff00bc32Hiding drop-down menus on the World Map.|r This is currently necessary as a workaround for a bug in the default Blizzard UI related to drop-down menus.",
+					["timestamp"] = 79841.946,
 				}, -- [1]
 				{
-					["message"] = "|cFFFFFFAAPlater|r  Applied Patch #25:",
-					["timestamp"] = 12563.967,
+					["message"] = "|cff979797|Hpratcopy|h[13:26:30]|h|r |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.148-wotlkc (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our two daughters.",
+					["r"] = 1,
+					["timestamp"] = 79841.946,
+					["g"] = 0.7,
+					["b"] = 0.2,
 				}, -- [2]
 				{
-					["message"] = "- Patching scripts triggers for season of Dragonflight Mythic+.",
-					["timestamp"] = 12563.967,
+					["message"] = "|cff979797|Hpratcopy|h[13:26:32]|h|r |cffffe566{VuhDo}|r Profile successfully loaded: druid party",
+					["r"] = 1,
+					["serverTime"] = 1680776792,
+					["timestamp"] = 79847.981,
+					["g"] = 0.7,
+					["b"] = 0.2,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:45]|h|r |cff30fc96Questie|r: |cff00bc32Hiding drop-down menus on the World Map.|r This is currently necessary as a workaround for a bug in the default Blizzard UI related to drop-down menus.",
-					["timestamp"] = 12563.967,
+					["message"] = "|cff979797|Hpratcopy|h[13:26:34]|h|r |cFFAAEEFFQuestie DB has updated!|r|cFFFF6F22 Data is being processed, this may take a few moments and cause some lag...",
+					["timestamp"] = 79849.48,
+					["serverTime"] = 1680776794,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:46]|h|r |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.148-wotlkc (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our two daughters.",
-					["r"] = 1,
-					["timestamp"] = 12563.967,
-					["g"] = 0.7,
-					["b"] = 0.2,
+					["message"] = "|cff979797|Hpratcopy|h[13:26:34]|h|r |cFF4DDBFF [1/9] Loading database...",
+					["timestamp"] = 79849.48,
+					["serverTime"] = 1680776794,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r NameplateCooldowns: New spell has been added: |cff71d5ff|Hspell:55694:0|h[Enraged Regeneration]|h|r (WARRIOR) ",
-					["r"] = 0,
-					["serverTime"] = 1680601491,
-					["timestamp"] = 12572.316,
-					["g"] = 128,
-					["b"] = 128,
+					["message"] = "|cff979797|Hpratcopy|h[13:26:34]|h|r |cFF4DDBFF [2/9] Applying database corrections...",
+					["timestamp"] = 79850.077,
+					["serverTime"] = 1680776794,
 				}, -- [6]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r NameplateCooldowns: New spell has been added: |cff71d5ff|Hspell:2687:0|h[Bloodrage]|h|r (WARRIOR) ",
-					["r"] = 0,
-					["serverTime"] = 1680601491,
-					["timestamp"] = 12572.316,
-					["g"] = 128,
-					["b"] = 128,
+					["message"] = "|cff979797|Hpratcopy|h[13:26:34]|h|r |cFF4DDBFF [3/9] Initializing townfolks...",
+					["timestamp"] = 79850.118,
+					["serverTime"] = 1680776794,
 				}, -- [7]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r NameplateCooldowns: New spell has been added: |cff71d5ff|Hspell:2565:0|h[Shield Block]|h|r (WARRIOR) ",
-					["r"] = 0,
-					["serverTime"] = 1680601491,
-					["timestamp"] = 12572.316,
-					["g"] = 128,
-					["b"] = 128,
+					["message"] = "|cff979797|Hpratcopy|h[13:26:38]|h|r |cFF4DDBFF [4/9] Initializing locale...",
+					["timestamp"] = 79853.581,
+					["serverTime"] = 1680776798,
 				}, -- [8]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r NameplateCooldowns: New spell has been added: |cff71d5ff|Hspell:60970:0|h[Heroic Fury]|h|r (WARRIOR) ",
-					["r"] = 0,
-					["serverTime"] = 1680601491,
-					["timestamp"] = 12572.316,
-					["g"] = 128,
-					["b"] = 128,
+					["message"] = "|cff979797|Hpratcopy|h[13:26:38]|h|r |cFF4DDBFF [5/9] Optimizing waypoints...",
+					["timestamp"] = 79853.615,
+					["serverTime"] = 1680776798,
 				}, -- [9]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r NameplateCooldowns: New spell has been added: |cff71d5ff|Hspell:64382:0|h[Shattering Throw]|h|r (WARRIOR) ",
-					["r"] = 0,
-					["serverTime"] = 1680601491,
-					["timestamp"] = 12572.316,
-					["g"] = 128,
-					["b"] = 128,
+					["message"] = "|cff979797|Hpratcopy|h[13:26:39]|h|r |cFF4DDBFF [6/9] Updating NPCs...",
+					["timestamp"] = 79854.615,
+					["serverTime"] = 1680776799,
 				}, -- [10]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r NameplateCooldowns: New spell has been added: |cff71d5ff|Hspell:11578:0|h[Charge]|h|r (WARRIOR) ",
-					["r"] = 0,
-					["serverTime"] = 1680601491,
-					["timestamp"] = 12572.316,
-					["g"] = 128,
-					["b"] = 128,
+					["message"] = "|cff979797|Hpratcopy|h[13:26:49]|h|r |cFF4DDBFF [7/9] Updating objects...",
+					["timestamp"] = 79864.731,
+					["serverTime"] = 1680776809,
 				}, -- [11]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r NameplateCooldowns: New spell has been added: |cff71d5ff|Hspell:57755:0|h[Heroic Throw]|h|r (WARRIOR) ",
-					["r"] = 0,
-					["serverTime"] = 1680601491,
-					["timestamp"] = 12572.316,
-					["g"] = 128,
-					["b"] = 128,
+					["message"] = "|cff979797|Hpratcopy|h[13:26:53]|h|r |cFF4DDBFF [8/9] Updating quests...",
+					["timestamp"] = 79869.331,
+					["serverTime"] = 1680776813,
 				}, -- [12]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r NameplateCooldowns: New spell has been added: |cff71d5ff|Hspell:1161:0|h[Challenging Shout]|h|r (WARRIOR) ",
-					["r"] = 0,
-					["serverTime"] = 1680601491,
-					["timestamp"] = 12572.316,
-					["g"] = 128,
-					["b"] = 128,
-				}, -- [13]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r NameplateCooldowns: New spell has been added: |cff71d5ff|Hspell:59156:0|h[Thunderstorm]|h|r (SHAMAN) ",
-					["r"] = 0,
-					["serverTime"] = 1680601491,
-					["timestamp"] = 12572.316,
-					["g"] = 128,
-					["b"] = 128,
-				}, -- [14]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r NameplateCooldowns: New spell has been added: |cff71d5ff|Hspell:59158:0|h[Thunderstorm]|h|r (SHAMAN) ",
-					["r"] = 0,
-					["serverTime"] = 1680601491,
-					["timestamp"] = 12572.316,
-					["g"] = 128,
-					["b"] = 128,
-				}, -- [15]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r NameplateCooldowns: New spell has been added: |cff71d5ff|Hspell:59159:0|h[Thunderstorm]|h|r (SHAMAN) ",
-					["r"] = 0,
-					["serverTime"] = 1680601491,
-					["timestamp"] = 12572.316,
-					["g"] = 128,
-					["b"] = 128,
-				}, -- [16]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r |cffffe566{VuhDo}|r Profile successfully loaded: druid party",
-					["r"] = 1,
-					["serverTime"] = 1680601491,
-					["timestamp"] = 12572.796,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [17]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:44:51]|h|r |cffffe566{VuhDo}|r auto model sanity: VUHDO_USER_CLASS_COLORS: created 1, repaired 0 values.",
-					["r"] = 1,
-					["serverTime"] = 1680601491,
-					["timestamp"] = 12572.796,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [18]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:45:46]|h|r Myra Tyrngaarde says: Fresh bread, baked this very morning.",
-					["serverTime"] = 1680601546,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 12627.033,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [19]
 			},
 			["maxElements"] = 4096,
 			["TransformIf"] = nil --[[ skipped inline function ]],

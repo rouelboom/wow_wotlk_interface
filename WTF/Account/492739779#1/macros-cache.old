@@ -68,3 +68,37 @@ VER 3 0000000000000012 "trinket" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 13
 END
+VER 3 0000000000000013 "Омоложение" "134400"
+#showtooltip
+/cast [nomod]Омоложение
+/use [mod:shift] 13
+/cast [mod:alt] Спокойствие
+/use [mod:ctrl] Едкая тюленья сыворотка
+END
+VER 3 0000000000000016 "гроза корни" "134400"
+#showtooltip
+/cast [nomod]Гроза
+/use [mod:shift] Спячка
+/cast [mod:alt] Спокойствие
+/use [mod:ctrl] Едкая тюленья сыворотка
+END
+VER 3 0000000000000017 "стелс" "134400"
+#showtooltip
+/cast [nomod]13
+/use [mod:shift] Слиться с тенью
+/cast [mod:alt] Спокойствие
+/use [mod:ctrl] Едкая тюленья сыворотка
+END
+VER 3 0000000000000014 "тревел" "134400"
+#showtooltip
+/cast [nomod]Тайфун
+/use [mod:shift] Походный облик
+/use [mod:alt] Облик птицы
+/use [mod:ctrl] Облик птицы
+END
+VER 3 0000000000000015 "хил" "134400"
+#showtooltip
+/cast [nomod]Лунный огонь
+/use [mod:shift] Походный облик
+/use [mod:alt] Восстановление
+END

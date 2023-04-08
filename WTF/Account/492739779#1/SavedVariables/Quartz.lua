@@ -20,7 +20,7 @@ Quartz3DB = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
-		["Mirror"] = {
+		["EnemyCasts"] = {
 		},
 		["Player"] = {
 			["profiles"] = {
@@ -54,7 +54,7 @@ Quartz3DB = {
 		},
 		["Range"] = {
 		},
-		["EnemyCasts"] = {
+		["Mirror"] = {
 		},
 		["Latency"] = {
 		},
@@ -66,12 +66,12 @@ Quartz3DB = {
 		["Postographer - Mograine"] = "Default",
 		["Nomen - Firemaw"] = "Default",
 		["Роуэл - Пламегор"] = "Default",
-		["Willno - Mograine"] = "Default",
-		["Ambracer - Mograine"] = "Default",
+		["Ambraser - Mograine"] = "Default",
+		["Nowarguy - Firemaw"] = "Default",
 		["Torket - Firemaw"] = "Default",
 		["Tolain - Firemaw"] = "Default",
-		["Nowarguy - Firemaw"] = "Default",
-		["Ambraser - Mograine"] = "Default",
+		["Ambracer - Mograine"] = "Default",
+		["Willno - Mograine"] = "Default",
 		["Хрукцион - Пламегор"] = "Default",
 	},
 	["profiles"] = {

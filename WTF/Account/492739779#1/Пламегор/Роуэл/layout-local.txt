@@ -6,3 +6,10 @@ X: -161
 Y: 125
 W: 260
 H: 132
+Frame: VuhDoNewOptionsTabbedFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: 0
+W: 648
+H: 455

@@ -20,8 +20,8 @@ BlizzMove: enabled
 BlizzMove_Debug: enabled
 BuyEmAllClassic: disabled
 Clique: disabled
-Guidelime: disabled
-GuideLime_TUGs_WOTLK: disabled
+Guidelime: enabled
+GuideLime_TUGs_WOTLK: enabled
 HidingBar: disabled
 HidingBar_Options: disabled
 Immersion: disabled
@@ -43,9 +43,9 @@ ShadowedUF_Options: enabled
 ShadowedUnitFrames: enabled
 SimpleItemLevel: enabled
 SimpleDruidMana: disabled
-TomTom: disabled
-VuhDo: disabled
-VuhDoOptions: disabled
+TomTom: enabled
+VuhDo: enabled
+VuhDoOptions: enabled
 WeakAuras: disabled
 WeakAurasArchive: disabled
 WeakAurasModelPaths: disabled

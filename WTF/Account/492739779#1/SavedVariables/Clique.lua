@@ -4,10 +4,10 @@ CliqueDB3 = {
 	["char"] = {
 		["Nomenth - Mograine"] = {
 			["spec1_profileKey"] = "Nomenth - Mograine",
-			["downclick"] = false,
 			["spec2_profileKey"] = "Nomenth - Mograine",
-			["fastooc"] = false,
+			["downclick"] = false,
 			["specswap"] = false,
+			["fastooc"] = false,
 		},
 		["Nomen - Firemaw"] = {
 			["spec1_profileKey"] = "Nomen - Firemaw",
@@ -33,10 +33,10 @@ CliqueDB3 = {
 		["Sourcer - Mograine"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -52,10 +52,10 @@ CliqueDB3 = {
 		["Ambracer - Mograine"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -71,10 +71,10 @@ CliqueDB3 = {
 		["Nomenth - Mograine"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -90,10 +90,10 @@ CliqueDB3 = {
 		["Postographer - Mograine"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -120,12 +120,12 @@ CliqueDB3 = {
 				{
 					["type"] = "spell",
 					["key"] = "BUTTON3",
-					["spell"] = "Rejuvenation",
+					["spellSubName"] = "Rank 13",
 					["sets"] = {
 						["default"] = true,
 					},
 					["icon"] = 136081,
-					["spellSubName"] = "Rank 13",
+					["spell"] = "Rejuvenation",
 				}, -- [2]
 				{
 					["type"] = "target",
@@ -137,12 +137,12 @@ CliqueDB3 = {
 				{
 					["type"] = "spell",
 					["key"] = "CTRL-BUTTON3",
-					["spell"] = "Rejuvenation",
+					["spellSubName"] = "Rank 9",
 					["sets"] = {
 						["default"] = true,
 					},
 					["icon"] = 136081,
-					["spellSubName"] = "Rank 9",
+					["spell"] = "Rejuvenation",
 				}, -- [4]
 				{
 					["type"] = "spell",
@@ -156,52 +156,52 @@ CliqueDB3 = {
 				{
 					["type"] = "spell",
 					["key"] = "SHIFT-BUTTON2",
-					["spell"] = "Healing Touch",
+					["spellSubName"] = "Rank 13",
 					["sets"] = {
 						["default"] = true,
 					},
 					["icon"] = 136041,
-					["spellSubName"] = "Rank 13",
+					["spell"] = "Healing Touch",
 				}, -- [6]
 				{
 					["type"] = "spell",
 					["key"] = "2",
-					["spell"] = "Regrowth",
+					["spellSubName"] = "Rank 10",
 					["sets"] = {
 						["default"] = true,
 					},
 					["icon"] = 136085,
-					["spellSubName"] = "Rank 10",
+					["spell"] = "Regrowth",
 				}, -- [7]
 				{
 					["type"] = "spell",
 					["key"] = "BUTTON2",
-					["spell"] = "Regrowth",
+					["spellSubName"] = "Rank 10",
 					["sets"] = {
 						["default"] = true,
 					},
 					["icon"] = 136085,
-					["spellSubName"] = "Rank 10",
+					["spell"] = "Regrowth",
 				}, -- [8]
 				{
 					["type"] = "spell",
 					["key"] = "BUTTON1",
-					["spell"] = "Lifebloom",
+					["spellSubName"] = "Rank 1",
 					["sets"] = {
 						["default"] = true,
 					},
 					["icon"] = 134206,
-					["spellSubName"] = "Rank 1",
+					["spell"] = "Lifebloom",
 				}, -- [9]
 				{
 					["type"] = "spell",
 					["key"] = "4",
-					["spell"] = "Lifebloom",
+					["spellSubName"] = "Rank 1",
 					["sets"] = {
 						["default"] = true,
 					},
 					["icon"] = 134206,
-					["spellSubName"] = "Rank 1",
+					["spell"] = "Lifebloom",
 				}, -- [10]
 				{
 					["type"] = "spell",
@@ -215,12 +215,12 @@ CliqueDB3 = {
 				{
 					["type"] = "spell",
 					["key"] = "E",
-					["spell"] = "Rejuvenation",
+					["spellSubName"] = "Rank 13",
 					["sets"] = {
 						["default"] = true,
 					},
 					["icon"] = 136081,
-					["spellSubName"] = "Rank 13",
+					["spell"] = "Rejuvenation",
 				}, -- [12]
 				{
 					["type"] = "menu",
@@ -234,10 +234,10 @@ CliqueDB3 = {
 		["Torket - Firemaw"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -253,10 +253,10 @@ CliqueDB3 = {
 		["Tolain - Firemaw"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -272,10 +272,10 @@ CliqueDB3 = {
 		["Nowarguy - Firemaw"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -291,10 +291,10 @@ CliqueDB3 = {
 		["Ambraser - Mograine"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -310,10 +310,10 @@ CliqueDB3 = {
 		["Хрукцион - Пламегор"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]

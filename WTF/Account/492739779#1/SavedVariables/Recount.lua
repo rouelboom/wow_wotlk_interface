@@ -9,8 +9,8 @@ RecountDB = {
 		["Роуэл - Пламегор"] = "Роуэл - Пламегор",
 		["Torket - Firemaw"] = "Torket - Firemaw",
 		["Tolain - Firemaw"] = "Tolain - Firemaw",
-		["Nowarguy - Firemaw"] = "Nowarguy - Firemaw",
 		["Ambraser - Mograine"] = "Ambraser - Mograine",
+		["Nowarguy - Firemaw"] = "Nowarguy - Firemaw",
 		["Хрукцион - Пламегор"] = "Хрукцион - Пламегор",
 	},
 	["profiles"] = {
@@ -39,8 +39,8 @@ RecountDB = {
 				["Position"] = {
 					["y"] = -266.8756408691406,
 					["h"] = 181.5946960449219,
-					["w"] = 278.0393981933594,
-					["x"] = 572.6536254882812,
+					["w"] = 278.03955078125,
+					["x"] = 572.653564453125,
 				},
 			},
 			["Colors"] = {
@@ -53,19 +53,18 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowHeight"] = 181.5946960449219,
-			["CurDataSet"] = "OverallData",
-			["MainWindowWidth"] = 278.0392150878906,
 			["LastInstanceName"] = "Gundrak",
+			["MainWindowHeight"] = 181.5946960449219,
+			["MainWindowWidth"] = 278.0392150878906,
+			["CurDataSet"] = "OverallData",
 		},
 		["Nomenth - Mograine"] = {
 			["MainWindowVis"] = false,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = 0.000152587890625,
+					["y"] = 0.000213623046875,
 					["h"] = 200.0000152587891,
-					["w"] = 140.0001068115234,
-					["x"] = 6.103515625e-05,
+					["w"] = 140.0001678466797,
 				},
 			},
 			["Colors"] = {
@@ -123,19 +122,20 @@ RecountDB = {
 				},
 			},
 			["MainWindowHeight"] = 303.4052429199219,
-			["LastInstanceName"] = "Warsong Gulch",
-			["MainWindowWidth"] = 243.6927185058594,
 			["CurDataSet"] = "OverallData",
+			["MainWindowWidth"] = 243.6927185058594,
+			["LastInstanceName"] = "Warsong Gulch",
 		},
 		["Роуэл - Пламегор"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -260.5948028564453,
-					["x"] = 553.6384887695312,
-					["w"] = 260.2358093261719,
-					["h"] = 131.5813293457031,
+					["y"] = -260.5946655273438,
+					["x"] = 553.63818359375,
+					["w"] = 260.236083984375,
+					["h"] = 131.5813751220703,
 				},
 			},
+			["MainWindowHeight"] = 131.5812683105469,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -146,9 +146,10 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowWidth"] = 260.2358093261719,
-			["MainWindowHeight"] = 131.5812683105469,
+			["MainWindowVis"] = false,
+			["LastInstanceName"] = "Нексус",
 			["CurDataSet"] = "OverallData",
+			["MainWindowWidth"] = 260.2358093261719,
 		},
 		["Torket - Firemaw"] = {
 			["MainWindowVis"] = false,
@@ -190,12 +191,12 @@ RecountDB = {
 			},
 			["CurDataSet"] = "OverallData",
 		},
-		["Nowarguy - Firemaw"] = {
+		["Ambraser - Mograine"] = {
 			["MainWindowVis"] = false,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = 6.103515625e-05,
-					["w"] = 140.0000762939453,
+					["w"] = 140.0000610351563,
+					["h"] = 200.0000152587891,
 				},
 			},
 			["Colors"] = {
@@ -210,12 +211,12 @@ RecountDB = {
 			},
 			["CurDataSet"] = "OverallData",
 		},
-		["Ambraser - Mograine"] = {
+		["Nowarguy - Firemaw"] = {
 			["MainWindowVis"] = false,
 			["MainWindow"] = {
 				["Position"] = {
-					["w"] = 140.0000610351563,
-					["h"] = 200.0000152587891,
+					["y"] = 6.103515625e-05,
+					["w"] = 140.0000762939453,
 				},
 			},
 			["Colors"] = {

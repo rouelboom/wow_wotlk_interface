@@ -14,20 +14,20 @@ GuidelimeDataChar = {
 			[35] = true,
 			[38] = true,
 			[22] = true,
-			[84] = true,
+			[15] = true,
 			[64] = false,
 			[24] = true,
 			[48] = true,
 			[61] = true,
 			[67] = true,
-			[71] = true,
 			[52] = true,
+			[71] = true,
 			[53] = true,
 			[54] = true,
 			[55] = true,
 			[56] = true,
 			[29] = true,
-			[15] = true,
+			[84] = true,
 		},
 		["TUGs The Ultimate (Leveling) Guides 38-39 Dustwallow Marsh,STV"] = {
 		},
@@ -121,8 +121,8 @@ GuidelimeDataChar = {
 			[38] = true,
 			[55] = true,
 			[57] = true,
-			[58] = true,
 			[32] = true,
+			[58] = true,
 		},
 		["TUGs The Ultimate (Leveling) Guides 18-20 DM,Redridge Mountains"] = {
 			[4] = false,
@@ -141,10 +141,10 @@ GuidelimeDataChar = {
 			[43] = true,
 			[24] = true,
 			[28] = true,
-			[44] = true,
+			[45] = true,
 			[62] = true,
 			[49] = true,
-			[45] = true,
+			[44] = true,
 		},
 		["TUGs The Ultimate (Leveling) Guides 62-63 Zangarmarsh"] = {
 			true, -- [1]
@@ -152,8 +152,8 @@ GuidelimeDataChar = {
 			[46] = true,
 			[77] = true,
 			[26] = true,
+			[50] = true,
 			[29] = true,
-			[56] = true,
 			[43] = true,
 			[16] = true,
 			[47] = true,
@@ -163,7 +163,7 @@ GuidelimeDataChar = {
 			[78] = true,
 			[110] = true,
 			[12] = true,
-			[50] = true,
+			[56] = true,
 		},
 		["TUGs The Ultimate (Leveling) Guides 76- b3 Zul Drak - Alliance"] = {
 			true, -- [1]
@@ -192,10 +192,10 @@ GuidelimeDataChar = {
 			[102] = true,
 			[73] = true,
 			[106] = true,
-			[42] = true,
-			[41] = true,
-			[74] = true,
 			[99] = true,
+			[74] = true,
+			[41] = true,
+			[42] = true,
 		},
 		["TUGs The Ultimate (Leveling) Guides 72- b Dragonblight - Alliance"] = {
 			true, -- [1]
@@ -208,47 +208,31 @@ GuidelimeDataChar = {
 			[16] = true,
 			[42] = true,
 		},
-		["TUGs The Ultimate (Leveling) Guides 70- b5 Borean Tundra - Alliance"] = {
+		["TUGs The Ultimate (Leveling) Guides 78- b Sholazar Basin - Alliance"] = {
 			true, -- [1]
 			true, -- [2]
-			[46] = false,
-			[77] = true,
-			[89] = true,
-			[94] = true,
-			[36] = true,
-			[38] = true,
-			[40] = true,
-			[65] = true,
-			[80] = true,
-			[95] = true,
 		},
 		["TUGs The Ultimate (Leveling) Guides 79- a The Storm Peaks - Alliance"] = {
 			true, -- [1]
 			true, -- [2]
 		},
-		["TUGs The Ultimate (Leveling) Guides 70- b1 Borean Tundra - Alliance"] = {
+		["TUGs The Ultimate (Leveling) Guides 20-24 Ashenvale,Duskwood"] = {
+		},
+		["TUGs The Ultimate (Leveling) Guides 70- b2 Borean Tundra - Alliance"] = {
 			true, -- [1]
 			true, -- [2]
-			true, -- [3]
-			true, -- [4]
-			[31] = true,
-		},
-		["TUGs The Ultimate (Leveling) Guides 70- b3 Borean Tundra - Alliance"] = {
-			true, -- [1]
-			true, -- [2]
-			nil, -- [3]
-			true, -- [4]
-			[60] = true,
-			[121] = true,
-		},
-		["TUGs The Ultimate (Leveling) Guides 76- b2 Zul Drak - Alliance"] = {
-			true, -- [1]
+			[40] = true,
+			[25] = true,
+			[16] = true,
 		},
 		["TUGs The Ultimate (Leveling) Guides 64-65 Nagrand Part I"] = {
 			true, -- [1]
 			true, -- [2]
 			[6] = true,
 			[27] = true,
+		},
+		["TUGs The Ultimate (Leveling) Guides 76- b2 Zul Drak - Alliance"] = {
+			true, -- [1]
 		},
 		["TUGs The Ultimate (Leveling) Guides 29-31 Duskwood,Hillsbrad"] = {
 		},
@@ -261,9 +245,9 @@ GuidelimeDataChar = {
 			[36] = false,
 			[15] = true,
 			[12] = true,
-			[29] = true,
-			[75] = true,
 			[79] = true,
+			[75] = true,
+			[29] = true,
 		},
 		["TUGs The Ultimate (Leveling) Guides 60-61 Hellfire Peninsula Part I"] = {
 			true, -- [1]
@@ -274,20 +258,20 @@ GuidelimeDataChar = {
 			true, -- [6]
 			[61] = true,
 			[48] = true,
-			[133] = true,
+			[118] = true,
 			[37] = true,
+			[130] = true,
+			[133] = true,
+			[45] = true,
+			[60] = true,
+			[11] = true,
+			[94] = true,
+			[102] = true,
+			[117] = true,
+			[40] = true,
+			[110] = true,
 			[145] = true,
 			[15] = true,
-			[60] = true,
-			[45] = true,
-			[40] = true,
-			[94] = true,
-			[117] = true,
-			[102] = true,
-			[11] = true,
-			[110] = true,
-			[130] = true,
-			[118] = true,
 		},
 		["TUGs The Ultimate (Leveling) Guides 73- a Dragonblight - Alliance"] = {
 			true, -- [1]
@@ -301,10 +285,10 @@ GuidelimeDataChar = {
 			[17] = true,
 			[49] = true,
 			[53] = true,
-			[18] = true,
+			[20] = true,
 			[56] = false,
 			[59] = true,
-			[20] = true,
+			[18] = true,
 		},
 		["TUGs The Ultimate (Leveling) Guides 24-29 Ashenvale,Wetlands"] = {
 			true, -- [1]
@@ -327,58 +311,66 @@ GuidelimeDataChar = {
 			[42] = true,
 			[43] = true,
 			[44] = true,
-			[78] = true,
+			[33] = true,
 			[48] = true,
 			[49] = true,
-			[81] = true,
+			[29] = true,
 			[85] = true,
-			[84] = true,
+			[80] = true,
 			[82] = true,
 			[14] = true,
-			[80] = true,
+			[84] = true,
 			[79] = true,
-			[29] = true,
-			[33] = true,
+			[81] = true,
+			[78] = true,
 		},
 		["TUGs The Ultimate (Leveling) Guides 57-58 Deathknight"] = {
 		},
-		["TUGs The Ultimate (Leveling) Guides 70- b2 Borean Tundra - Alliance"] = {
+		["TUGs The Ultimate (Leveling) Guides 70- b3 Borean Tundra - Alliance"] = {
 			true, -- [1]
 			true, -- [2]
+			nil, -- [3]
+			true, -- [4]
+			[60] = true,
+			[121] = true,
+		},
+		["TUGs The Ultimate (Leveling) Guides 70- b1 Borean Tundra - Alliance"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+			[31] = true,
+		},
+		["TUGs The Ultimate (Leveling) Guides 70- b5 Borean Tundra - Alliance"] = {
+			true, -- [1]
+			true, -- [2]
+			[46] = false,
+			[77] = true,
+			[89] = true,
+			[94] = true,
+			[36] = true,
+			[38] = true,
 			[40] = true,
-			[25] = true,
-			[16] = true,
-		},
-		["TUGs The Ultimate (Leveling) Guides 20-24 Ashenvale,Duskwood"] = {
-		},
-		["TUGs The Ultimate (Leveling) Guides 78- b Sholazar Basin - Alliance"] = {
-			true, -- [1]
-			true, -- [2]
+			[65] = true,
+			[95] = true,
+			[80] = true,
 		},
 	},
 	["completedSteps"] = {
 	},
-	["editorFrameX"] = 0,
+	["arrowY"] = -176.6532287597656,
 	["arrowAlpha"] = 0.8,
 	["arrowRelative"] = "CENTER",
 	["mainFrameX"] = 12.97609710693359,
-	["mainFrameLocked"] = false,
-	["arrowSize"] = 64,
+	["editorFrameX"] = 0,
 	["mainFrameWidth"] = 403,
-	["showMinimapButton"] = true,
+	["arrowSize"] = 64,
+	["version"] = "2.038",
 	["arrowLocked"] = false,
-	["mainFrameShowing"] = false,
+	["mainFrameShowScrollBar"] = true,
 	["editorFrameY"] = 0,
 	["showCompletedSteps"] = false,
-	["version"] = "2.038",
-	["editorFrameRelative"] = "CENTER",
-	["mainFrameAlpha"] = 0.5,
-	["currentGuide"] = "TUGs The Ultimate (Leveling) Guides 79- a The Storm Peaks - Alliance",
-	["showTitle"] = true,
-	["arrowX"] = 320.41845703125,
-	["mainFrameFontSize"] = 14,
-	["showArrow"] = true,
-	["showUseItemButtons"] = "LEFT",
+	["mainFrameY"] = 27.21117973327637,
 	["guideSize"] = {
 		["TUGs The Ultimate (Leveling) Guides 61-62 Hellfire Peninsula Part II"] = 94,
 		["TUGs The Ultimate (Leveling) Guides 38-39 Dustwallow Marsh,STV"] = 103,
@@ -400,25 +392,33 @@ GuidelimeDataChar = {
 		["TUGs The Ultimate (Leveling) Guides 76- b3 Zul Drak - Alliance"] = 46,
 		["TUGs The Ultimate (Leveling) Guides 45-47 Tanaris,Hinterlands"] = 112,
 		["TUGs The Ultimate (Leveling) Guides 72- b Dragonblight - Alliance"] = 56,
-		["TUGs The Ultimate (Leveling) Guides 70- b5 Borean Tundra - Alliance"] = 99,
+		["TUGs The Ultimate (Leveling) Guides 78- b Sholazar Basin - Alliance"] = 46,
 		["TUGs The Ultimate (Leveling) Guides 79- a The Storm Peaks - Alliance"] = 90,
-		["TUGs The Ultimate (Leveling) Guides 70- b1 Borean Tundra - Alliance"] = 78,
-		["TUGs The Ultimate (Leveling) Guides 70- b3 Borean Tundra - Alliance"] = 129,
-		["TUGs The Ultimate (Leveling) Guides 76- b2 Zul Drak - Alliance"] = 55,
+		["TUGs The Ultimate (Leveling) Guides 20-24 Ashenvale,Duskwood"] = 152,
+		["TUGs The Ultimate (Leveling) Guides 70- b2 Borean Tundra - Alliance"] = 92,
 		["TUGs The Ultimate (Leveling) Guides 64-65 Nagrand Part I"] = 45,
+		["TUGs The Ultimate (Leveling) Guides 76- b2 Zul Drak - Alliance"] = 55,
 		["TUGs The Ultimate (Leveling) Guides 29-31 Duskwood,Hillsbrad"] = 123,
 		["TUGs The Ultimate (Leveling) Guides 78- a Sholazar Basin - Alliance"] = 122,
 		["TUGs The Ultimate (Leveling) Guides 60-61 Hellfire Peninsula Part I"] = 159,
 		["TUGs The Ultimate (Leveling) Guides 73- a Dragonblight - Alliance"] = 72,
 		["TUGs The Ultimate (Leveling) Guides 24-29 Ashenvale,Wetlands"] = 227,
 		["TUGs The Ultimate (Leveling) Guides 57-58 Deathknight"] = 78,
-		["TUGs The Ultimate (Leveling) Guides 70- b2 Borean Tundra - Alliance"] = 92,
-		["TUGs The Ultimate (Leveling) Guides 20-24 Ashenvale,Duskwood"] = 152,
-		["TUGs The Ultimate (Leveling) Guides 78- b Sholazar Basin - Alliance"] = 46,
+		["TUGs The Ultimate (Leveling) Guides 70- b3 Borean Tundra - Alliance"] = 129,
+		["TUGs The Ultimate (Leveling) Guides 70- b1 Borean Tundra - Alliance"] = 78,
+		["TUGs The Ultimate (Leveling) Guides 70- b5 Borean Tundra - Alliance"] = 99,
 	},
-	["mainFrameY"] = 27.21117973327637,
-	["mainFrameShowScrollBar"] = true,
+	["mainFrameAlpha"] = 0.5,
+	["currentGuide"] = "TUGs The Ultimate (Leveling) Guides 79- a The Storm Peaks - Alliance",
+	["showTitle"] = true,
+	["arrowX"] = 320.41845703125,
+	["mainFrameFontSize"] = 14,
+	["showUseItemButtons"] = "LEFT",
+	["showArrow"] = true,
+	["showMinimapButton"] = true,
+	["editorFrameRelative"] = "CENTER",
+	["mainFrameShowing"] = false,
 	["showTargetButtons"] = "LEFT",
 	["mainFrameRelative"] = "BOTTOM",
-	["arrowY"] = -176.6532287597656,
+	["mainFrameLocked"] = false,
 }

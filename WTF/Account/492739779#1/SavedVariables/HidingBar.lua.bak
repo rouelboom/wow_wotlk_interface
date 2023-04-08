@@ -1,6 +1,6 @@
 
 HidingBarDB = {
-	["tstmp"] = 1680601590,
+	["tstmp"] = 1680776793,
 	["profiles"] = {
 		{
 			["isDefault"] = true,
@@ -8,69 +8,69 @@ HidingBarDB = {
 				["addFromDataBroker"] = true,
 				["mbtnSettings"] = {
 					["MiniMapTrackingButton"] = {
-						["tstmp"] = 1680601491,
+						["tstmp"] = 1680776793,
 					},
 					["LibDBIcon10_Atlas"] = {
-						["tstmp"] = 1680601590,
+						["tstmp"] = 1680776793,
 					},
 					["LibDBIcon10_AtlasLoot"] = {
-						["tstmp"] = 1680601590,
+						["tstmp"] = 1680776793,
 					},
 					["LibDBIcon10_Guidelime"] = {
 						["tstmp"] = 1680601590,
 					},
 					["LibDBIcon10_MoveAnyMinimapIcon"] = {
-						["tstmp"] = 1680601491,
+						["tstmp"] = 1680776793,
 					},
 					["LibDBIcon10_Bartender4"] = {
-						["tstmp"] = 1680601590,
+						["tstmp"] = 1680776793,
 					},
 					["LibDBIcon10_DBM"] = {
-						["tstmp"] = 1680601590,
+						["tstmp"] = 1680776793,
 					},
 					["LibDBIcon10_Leatrix_Maps"] = {
-						["tstmp"] = 1680601590,
+						["tstmp"] = 1680776793,
 					},
 					["LibDBIcon10_Plater"] = {
-						["tstmp"] = 1680601590,
+						["tstmp"] = 1680776793,
 					},
 					["LibDBIcon10_WeakAuras"] = {
-						["tstmp"] = 1680601590,
-					},
-					["LibDBIcon10_Questie"] = {
-						["tstmp"] = 1680601590,
+						["tstmp"] = 1680776793,
 					},
 					["LibDBIcon10_Leatrix_Plus"] = {
-						["tstmp"] = 1680601491,
+						["tstmp"] = 1680776793,
+					},
+					["LibDBIcon10_Questie"] = {
+						["tstmp"] = 1680776793,
 					},
 					["LibDBIcon10_VuhDo"] = {
-						["tstmp"] = 1680601491,
+						["tstmp"] = 1680776793,
 					},
 				},
 				["btnSettings"] = {
-					["WeakAuras"] = {
-						["tstmp"] = 1680601590,
-					},
-					["Bartender4"] = {
-						["tstmp"] = 1680601590,
-					},
-					["Atlas"] = {
-						["tstmp"] = 1680601590,
-					},
-					["AtlasLoot"] = {
-						["tstmp"] = 1680601590,
-					},
-					["Prat"] = {
-						["tstmp"] = 1680601590,
-					},
-					["VuhDo"] = {
-						["tstmp"] = 1680601491,
-					},
 					["BagnonLauncher"] = {
 						["tstmp"] = 1680601590,
 					},
+					["WeakAuras"] = {
+						["tstmp"] = 1680776793,
+					},
+					["Atlas"] = {
+						["tstmp"] = 1680776793,
+					},
+					["AtlasLoot"] = {
+						["tstmp"] = 1680776793,
+					},
+					["Prat"] = {
+						["tstmp"] = 1680776793,
+					},
+					["VuhDo"] = {
+						["tstmp"] = 1680776793,
+					},
+					["Bartender4"] = {
+						["tstmp"] = 1680776793,
+					},
 					["DBM"] = {
-						["tstmp"] = 1680601590,
+						["tstmp"] = 1680776793,
 					},
 				},
 				["grabMinimap"] = true,

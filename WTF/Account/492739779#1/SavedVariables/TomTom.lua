@@ -1,10 +1,11 @@
 
 TomTomDB = {
 	["profileKeys"] = {
-		["Хрукцион - Пламегор"] = "Default",
 		["Ambracer - Mograine"] = "Default",
 		["Nomenth - Mograine"] = "Default",
 		["Postographer - Mograine"] = "Default",
+		["Роуэл - Пламегор"] = "Default",
+		["Хрукцион - Пламегор"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -32,19 +33,22 @@ TomTomDB = {
 TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
-		["Хрукцион - Пламегор"] = "Хрукцион - Пламегор",
 		["Ambracer - Mograine"] = "Ambracer - Mograine",
 		["Nomenth - Mograine"] = "Nomenth - Mograine",
 		["Postographer - Mograine"] = "Postographer - Mograine",
+		["Роуэл - Пламегор"] = "Роуэл - Пламегор",
+		["Хрукцион - Пламегор"] = "Хрукцион - Пламегор",
 	},
 	["profiles"] = {
-		["Хрукцион - Пламегор"] = {
-		},
 		["Ambracer - Mograine"] = {
 		},
 		["Nomenth - Mograine"] = {
 		},
 		["Postographer - Mograine"] = {
+		},
+		["Роуэл - Пламегор"] = {
+		},
+		["Хрукцион - Пламегор"] = {
 		},
 	},
 }
